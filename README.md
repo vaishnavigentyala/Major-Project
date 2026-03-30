@@ -50,7 +50,6 @@ Used for training and testing the model.
 
 ⚙️ Installation & Setup
 1. Clone the Repository
-git clone https://github.com/your-username/career-guidance-system.git
 cd career-guidance-system
 2. Install Dependencies
 pip install -r requirements.txt

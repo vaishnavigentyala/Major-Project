@@ -1,0 +1,139 @@
+{
+  "identity": {
+    "name": "E1: The Anti-AI Designer",
+    "mission": "Create a career guidance system that feels like a futuristic launchpad, not a government form.",
+    "principles": [
+      "Fusion: Cyberpunk Aesthetics + Academic Structure",
+      "Emotion: Empowering, Clarity, Future-Forward",
+      "Content: The 'Career Code' Metaphor",
+      "Contrast: Deep Void Black vs. Electric Lime"
+    ]
+  },
+  "typography": {
+    "headings": {
+      "font_family": "Space Grotesk, sans-serif",
+      "weights": ["600", "700"],
+      "usage": "All section headers, hero titles, and key metrics.",
+      "letter_spacing": "tracking-tight"
+    },
+    "body": {
+      "font_family": "Outfit, sans-serif",
+      "weights": ["300", "400", "500"],
+      "usage": "Paragraphs, labels, form inputs.",
+      "line_height": "leading-relaxed"
+    },
+    "mono": {
+      "font_family": "JetBrains Mono, monospace",
+      "usage": "Data tags, code snippets, AI reasoning output."
+    }
+  },
+  "colors": {
+    "palette": {
+      "background": {
+        "default": "#09090b",
+        "paper": "#18181b",
+        "glass": "rgba(24, 24, 27, 0.6)"
+      },
+      "primary": {
+        "main": "#bef264",
+        "hover": "#a3e635",
+        "text": "#1a2e05"
+      },
+      "secondary": {
+        "main": "#a78bfa",
+        "hover": "#8b5cf6"
+      },
+      "accent": {
+        "cyan": "#22d3ee",
+        "rose": "#fb7185"
+      },
+      "text": {
+        "primary": "#f4f4f5",
+        "secondary": "#a1a1aa",
+        "muted": "#52525b"
+      }
+    },
+    "gradients": {
+      "hero": "bg-gradient-to-r from-lime-400/20 via-transparent to-violet-400/20",
+      "card_border": "bg-gradient-to-b from-white/10 to-transparent"
+    }
+  },
+  "layout_strategy": {
+    "landing_page": {
+      "grid_type": "Mode A: The Tetris Grid",
+      "description": "Asymmetrical layout. Hero section spans full width but uses negative space. Feature cards are unevenly sized.",
+      "spacing": "gap-8 md:gap-12"
+    },
+    "dashboard": {
+      "grid_type": "Mode B: The Control Room",
+      "description": "Dense, data-heavy grid. 4 columns. Widgets stretch to fill height.",
+      "spacing": "gap-4"
+    },
+    "test_pages": {
+      "type": "Focused Tunnel",
+      "description": "Single column, centered, max-width-2xl. Distraction-free. Progress bar fixed at top."
+    }
+  },
+  "components": {
+    "buttons": {
+      "primary": "bg-lime-400 text-lime-950 hover:bg-lime-500 rounded-full font-bold px-8 py-6 transition-all hover:scale-105",
+      "secondary": "bg-zinc-800 text-white hover:bg-zinc-700 rounded-full px-6 py-6 border border-zinc-700",
+      "ghost": "text-zinc-400 hover:text-white hover:bg-white/5"
+    },
+    "cards": {
+      "glass": "bg-zinc-900/50 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl",
+      "solid": "bg-zinc-900 border border-zinc-800 rounded-xl"
+    },
+    "inputs": {
+      "style": "bg-zinc-950/50 border-zinc-800 focus:border-lime-400/50 focus:ring-lime-400/20 rounded-lg h-12"
+    }
+  },
+  "visual_enhancers": {
+    "textures": "Use a subtle noise texture overlay on the main background (opacity 0.03).",
+    "borders": "The 'Tracing Beam' effect on active cards (animated gradient border).",
+    "shadows": "Glow effects instead of drop shadows. e.g., shadow-[0_0_30px_-10px_rgba(190,242,100,0.3)]"
+  },
+  "motion": {
+    "page_transition": {
+      "initial": { "opacity": 0, "y": 20 },
+      "animate": { "opacity": 1, "y": 0 },
+      "exit": { "opacity": 0, "y": -20 },
+      "transition": { "duration": 0.4, "ease": "easeOut" }
+    },
+    "hover_effects": "Scale up 1.02 on cards. Text color shift on links.",
+    "loading": "Animated 'decoding' text effect for AI predictions."
+  },
+  "image_urls": {
+    "hero_student": {
+      "url": "https://images.unsplash.com/photo-1622025118596-971bac0b1cde?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Nzd8MHwxfHNlYXJjaHwyfHxmdXR1cmlzdGljJTIwc3R1ZGVudCUyMHBvcnRyYWl0JTIwbmVvbiUyMGxpZ2h0aW5nfGVufDB8fHx8MTc2NDU5NjM0N3ww&ixlib=rb-4.1.0&q=85",
+      "description": "Student with headphones in neon lighting, representing the 'Tech/Future' persona.",
+      "usage": "Hero section, right side or background blend."
+    },
+    "ai_background": {
+      "url": "https://images.unsplash.com/photo-1630832128204-fa1d5b6cbf0d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Nzh8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMGdsb3dpbmclMjBuZXVyYWwlMjBuZXR3b3JrJTIwY29ubmVjdGlvbnN8ZW58MHx8fHwxNzY0NTk2MzQ4fDA&ixlib=rb-4.1.0&q=85",
+      "description": "Abstract glowing lines.",
+      "usage": "Background overlay for the 'Results' or 'AI Processing' screen."
+    },
+    "collaboration": {
+      "url": "https://images.unsplash.com/photo-1758270705172-07b53627dfcb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NjZ8MHwxfHNlYXJjaHwxfHxkaXZlcnNlJTIwc3R1ZGVudHMlMjBjb2xsYWJvcmF0aW5nJTIwbW9kZXJuJTIwY2FtcHVzfGVufDB8fHx8MTc2NDU5NjM1MHww&ixlib=rb-4.1.0&q=85",
+      "description": "Diverse students working together.",
+      "usage": "About section or 'Community' feature card."
+    }
+  },
+  "instructions_to_main_agent": [
+    "1. INSTALL FONTS: Add 'Space Grotesk' and 'Outfit' from Google Fonts immediately.",
+    "2. DARK MODE DEFAULT: Force dark mode in tailwind config or html class. The app should rarely be white.",
+    "3. USE SHADCN SMARTLY: Don't use default Shadcn styles. Override borders with white/10 and backgrounds with zinc-900/50.",
+    "4. AI INTEGRATION: When displaying GPT-5.1 results, use a 'Streaming Text' effect to make it feel like the AI is thinking live.",
+    "5. NO BORING FORMS: Break the 'Student Info' form into a multi-step wizard with large, clickable options instead of just text inputs.",
+    "6. DATA-TESTID: Ensure every interactive element has a data-testid attribute (e.g., 'submit-score-btn', 'aptitude-option-a')."
+  ],
+  "UNIVERSAL_GUIDELINES_FOR_MAIN_AGENT": [
+    "Avoid 'AI Slop' aesthetics (generic centered layouts, gradients everywhere).",
+    "Use 2-3x more spacing than typical designs.",
+    "Never use 'Inter' for headings.",
+    "Use 'sonner' for toasts.",
+    "Components must use named exports.",
+    "Pages must use default exports."
+  ]
+}

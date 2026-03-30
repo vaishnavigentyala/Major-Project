@@ -1,0 +1,1001 @@
+Student_ID,Age,Math_Score,Science_Score,Aptitude_Score,GPA,Personality_Type,Logical_Ability,Interest_Area,Programming_Skill,Communication_Skill,Problem_Solving,Career_Label
+1,23,50,69,59,5.95,Extrovert,Low,Arts,Advanced,Medium,High,Media
+2,25,81,81,53,8.1,Introvert,Medium,Science,Intermediate,Medium,Low,Lab Technician
+3,20,82,69,71,7.55,Ambivert,Medium,Technology,Advanced,High,Low,AI Engineer
+4,23,84,63,73,7.35,Extrovert,Medium,Commerce,Beginner,Low,High,Accountant
+5,19,55,51,90,5.3,Introvert,Medium,Arts,Advanced,Medium,Low,Design
+6,24,57,81,72,6.9,Extrovert,Medium,Arts,Beginner,Low,Medium,Media
+7,19,81,61,72,7.1,Extrovert,Low,Commerce,Intermediate,Medium,Medium,Business Analyst
+8,25,81,65,78,7.3,Ambivert,Low,Commerce,Beginner,High,Medium,Accountant
+9,23,76,52,91,6.4,Ambivert,High,Science,Advanced,Low,Low,Engineer
+10,21,67,50,44,5.85,Introvert,Low,Arts,Intermediate,High,High,Media
+11,18,56,74,91,6.5,Extrovert,Medium,Government,Intermediate,Low,Medium,Defense
+12,20,71,59,69,6.5,Extrovert,High,Technology,Advanced,Medium,Medium,Data Scientist
+13,19,84,72,87,7.8,Extrovert,Medium,Science,Intermediate,High,Low,Engineer
+14,25,55,75,92,6.5,Ambivert,High,Government,Beginner,High,Low,Defense
+15,19,69,75,46,7.2,Ambivert,High,Commerce,Intermediate,Low,Low,Management
+16,25,92,57,59,7.45,Ambivert,High,Government,Beginner,Low,High,Defense
+17,18,70,82,95,7.6,Extrovert,Low,Commerce,Advanced,High,High,Accountant
+18,25,89,60,74,7.45,Ambivert,Medium,Arts,Beginner,High,High,Design
+19,25,83,70,75,7.65,Ambivert,High,Government,Advanced,High,High,Defense
+20,19,73,90,71,8.15,Ambivert,Low,Science,Beginner,High,Medium,Researcher
+21,19,51,51,69,5.1,Introvert,High,Science,Intermediate,Medium,Medium,Lab Technician
+22,18,90,89,88,8.95,Introvert,Low,Technology,Beginner,Low,Low,AI Engineer
+23,22,78,57,96,6.75,Introvert,High,Commerce,Intermediate,High,High,Business Analyst
+24,23,88,83,49,8.55,Ambivert,Low,Technology,Beginner,Low,Medium,AI Engineer
+25,22,52,83,52,6.75,Extrovert,Low,Arts,Intermediate,Low,High,Design
+26,23,77,72,92,7.45,Ambivert,Medium,Arts,Advanced,High,High,Content Creator
+27,21,75,59,67,6.7,Ambivert,Medium,Science,Advanced,Low,High,Researcher
+28,19,77,59,66,6.8,Introvert,High,Science,Advanced,High,Low,Engineer
+29,24,54,89,63,7.15,Ambivert,High,Government,Beginner,Low,Low,Civil Services
+30,20,59,66,89,6.25,Introvert,High,Government,Intermediate,High,Medium,Banking
+31,25,74,80,52,7.7,Introvert,Medium,Science,Intermediate,High,High,Researcher
+32,25,85,52,82,6.85,Ambivert,High,Technology,Advanced,Medium,Medium,AI Engineer
+33,25,95,62,100,7.85,Ambivert,Low,Technology,Beginner,High,High,Data Scientist
+34,22,95,87,73,9.1,Introvert,Medium,Government,Advanced,Low,Medium,Banking
+35,23,54,81,87,6.75,Introvert,Low,Technology,Advanced,High,High,AI Engineer
+36,23,79,82,40,8.05,Extrovert,Medium,Commerce,Advanced,High,High,Business Analyst
+37,20,87,52,80,6.95,Introvert,Low,Technology,Advanced,High,Low,Data Scientist
+38,24,64,83,71,7.35,Ambivert,High,Science,Intermediate,Medium,High,Lab Technician
+39,20,66,50,57,5.8,Ambivert,Low,Arts,Beginner,Low,High,Content Creator
+40,20,76,58,85,6.7,Ambivert,High,Government,Beginner,Medium,Medium,Banking
+41,21,92,72,78,8.2,Extrovert,Medium,Arts,Advanced,Low,High,Media
+42,23,93,63,89,7.8,Introvert,Low,Government,Advanced,High,Medium,Civil Services
+43,24,53,67,46,6.0,Extrovert,Medium,Government,Beginner,Medium,Medium,Civil Services
+44,19,80,88,87,8.4,Introvert,High,Technology,Intermediate,Low,Medium,AI Engineer
+45,21,83,52,89,6.75,Ambivert,High,Government,Intermediate,High,Low,Civil Services
+46,20,73,92,48,8.25,Introvert,High,Commerce,Intermediate,Low,Medium,Business Analyst
+47,18,88,92,83,9.0,Ambivert,Low,Arts,Beginner,Medium,Low,Content Creator
+48,21,57,59,77,5.8,Extrovert,Low,Government,Advanced,High,Medium,Banking
+49,25,54,90,52,7.2,Extrovert,Medium,Arts,Intermediate,Low,Low,Media
+50,21,80,75,82,7.75,Ambivert,High,Commerce,Beginner,High,High,Accountant
+51,23,72,64,90,6.8,Introvert,Medium,Arts,Intermediate,Medium,Medium,Content Creator
+52,23,70,51,68,6.05,Ambivert,Low,Science,Beginner,High,High,Researcher
+53,18,73,64,59,6.85,Ambivert,High,Arts,Advanced,High,Low,Design
+54,24,70,59,41,6.45,Introvert,High,Government,Beginner,Low,Medium,Civil Services
+55,19,68,78,51,7.3,Extrovert,Low,Commerce,Intermediate,High,Low,Accountant
+56,18,77,82,47,7.95,Ambivert,High,Technology,Beginner,Low,Medium,Software Engineer
+57,25,62,87,69,7.45,Introvert,Low,Arts,Intermediate,Low,Medium,Media
+58,19,95,64,49,7.95,Ambivert,High,Government,Intermediate,Low,Medium,Banking
+59,23,94,61,92,7.75,Introvert,Medium,Commerce,Beginner,Medium,High,Accountant
+60,25,91,87,93,8.9,Extrovert,High,Arts,Advanced,High,Low,Media
+61,18,90,65,41,7.75,Introvert,High,Science,Intermediate,High,Medium,Researcher
+62,24,65,88,70,7.65,Introvert,Low,Technology,Intermediate,High,Low,Software Engineer
+63,25,78,62,94,7.0,Introvert,High,Arts,Advanced,Medium,Medium,Content Creator
+64,20,69,70,92,6.95,Ambivert,Medium,Commerce,Intermediate,Medium,Low,Management
+65,20,53,53,85,5.3,Ambivert,High,Commerce,Intermediate,Medium,Medium,Accountant
+66,22,93,95,40,9.4,Ambivert,High,Arts,Advanced,High,Low,Media
+67,19,78,62,69,7.0,Introvert,High,Commerce,Intermediate,Low,High,Business Analyst
+68,22,82,93,79,8.75,Ambivert,High,Science,Intermediate,Medium,Low,Lab Technician
+69,19,64,77,52,7.05,Extrovert,Low,Government,Beginner,Medium,High,Banking
+70,22,94,59,40,7.65,Ambivert,Low,Technology,Intermediate,Low,Medium,Software Engineer
+71,22,58,64,59,6.1,Introvert,Low,Arts,Beginner,Low,Medium,Content Creator
+72,22,56,63,45,5.95,Ambivert,High,Government,Beginner,High,High,Defense
+73,18,53,87,97,7.0,Extrovert,High,Commerce,Advanced,High,Low,Accountant
+74,22,60,87,63,7.35,Ambivert,Medium,Government,Beginner,Medium,Medium,Defense
+75,20,57,63,81,6.0,Introvert,Low,Arts,Advanced,Low,Low,Design
+76,18,80,60,44,7.0,Ambivert,Low,Arts,Intermediate,High,Low,Content Creator
+77,22,69,83,41,7.6,Ambivert,High,Technology,Intermediate,High,Low,Data Scientist
+78,18,71,60,56,6.55,Extrovert,Medium,Commerce,Beginner,High,High,Management
+79,23,85,53,68,6.9,Introvert,Low,Government,Advanced,Low,Medium,Civil Services
+80,19,90,53,63,7.15,Extrovert,High,Technology,Beginner,High,Medium,AI Engineer
+81,24,69,59,47,6.4,Ambivert,Medium,Government,Advanced,High,Medium,Defense
+82,20,61,80,99,7.05,Introvert,High,Technology,Intermediate,Low,High,AI Engineer
+83,18,51,57,69,5.4,Ambivert,High,Commerce,Intermediate,Low,High,Business Analyst
+84,20,50,55,94,5.25,Introvert,Medium,Commerce,Intermediate,Low,High,Management
+85,20,55,85,93,7.0,Ambivert,Low,Science,Intermediate,Low,Medium,Lab Technician
+86,22,53,79,40,6.6,Introvert,Medium,Arts,Advanced,High,Low,Media
+87,20,52,66,56,5.9,Ambivert,Medium,Commerce,Advanced,High,Low,Accountant
+88,18,84,86,69,8.5,Extrovert,Medium,Arts,Intermediate,High,Medium,Media
+89,21,95,66,68,8.05,Introvert,Low,Technology,Beginner,Low,Low,Software Engineer
+90,20,68,50,86,5.9,Introvert,High,Technology,Beginner,Medium,High,AI Engineer
+91,23,91,66,64,7.85,Ambivert,Low,Arts,Intermediate,Low,Medium,Design
+92,18,74,65,94,6.95,Extrovert,Medium,Government,Beginner,High,High,Defense
+93,24,72,77,95,7.45,Introvert,Medium,Arts,Advanced,High,Low,Design
+94,18,91,62,47,7.65,Introvert,High,Arts,Intermediate,High,High,Content Creator
+95,21,92,58,40,7.5,Ambivert,Low,Arts,Beginner,Medium,High,Media
+96,23,80,76,61,7.8,Introvert,Medium,Government,Advanced,Medium,Medium,Banking
+97,24,57,59,52,5.8,Introvert,High,Commerce,Beginner,Medium,Low,Accountant
+98,19,90,54,59,7.2,Ambivert,High,Arts,Beginner,Medium,Medium,Media
+99,25,58,55,55,5.65,Introvert,Medium,Commerce,Beginner,Low,High,Business Analyst
+100,25,90,65,77,7.75,Ambivert,High,Science,Beginner,Medium,Low,Researcher
+101,21,62,93,47,7.75,Ambivert,High,Science,Intermediate,Low,High,Engineer
+102,20,65,83,95,7.4,Ambivert,Medium,Technology,Beginner,High,High,Data Scientist
+103,20,69,92,62,8.05,Ambivert,Medium,Government,Advanced,High,Low,Banking
+104,22,58,65,56,6.15,Introvert,Medium,Government,Advanced,Medium,High,Defense
+105,21,55,77,86,6.6,Extrovert,Medium,Technology,Advanced,High,Low,Software Engineer
+106,18,85,53,78,6.9,Introvert,Medium,Arts,Beginner,Low,Medium,Design
+107,20,55,64,59,5.95,Introvert,High,Technology,Intermediate,Medium,Low,Data Scientist
+108,24,53,62,98,5.75,Ambivert,Medium,Government,Advanced,Medium,Medium,Banking
+109,20,73,92,76,8.25,Introvert,High,Commerce,Intermediate,Low,Low,Accountant
+110,22,63,83,86,7.3,Extrovert,High,Arts,Intermediate,Low,Low,Design
+111,23,88,86,97,8.7,Ambivert,Low,Technology,Advanced,Low,Low,Data Scientist
+112,19,74,92,60,8.3,Introvert,High,Commerce,Advanced,High,High,Management
+113,23,55,54,65,5.45,Extrovert,Low,Science,Beginner,Medium,Low,Lab Technician
+114,20,57,90,92,7.35,Extrovert,Low,Arts,Advanced,High,Low,Media
+115,25,83,93,44,8.8,Introvert,High,Government,Beginner,High,Medium,Civil Services
+116,18,54,91,72,7.25,Ambivert,Low,Technology,Intermediate,High,High,AI Engineer
+117,18,57,87,82,7.2,Introvert,High,Government,Advanced,Low,Medium,Banking
+118,23,91,59,77,7.5,Ambivert,High,Commerce,Intermediate,High,Medium,Business Analyst
+119,25,53,50,89,5.15,Extrovert,Low,Science,Beginner,Medium,Low,Researcher
+120,21,57,62,64,5.95,Introvert,Low,Technology,Advanced,Low,High,AI Engineer
+121,25,74,88,85,8.1,Ambivert,Low,Government,Intermediate,High,Low,Civil Services
+122,18,70,69,85,6.95,Ambivert,High,Commerce,Intermediate,Medium,Low,Accountant
+123,18,58,61,78,5.95,Ambivert,Low,Government,Beginner,Medium,Low,Civil Services
+124,22,51,87,90,6.9,Ambivert,Low,Commerce,Intermediate,Low,Medium,Accountant
+125,25,87,50,60,6.85,Ambivert,Low,Technology,Intermediate,Low,Low,Software Engineer
+126,18,65,87,52,7.6,Introvert,Medium,Technology,Beginner,Medium,High,AI Engineer
+127,24,74,90,87,8.2,Ambivert,Low,Government,Beginner,Medium,High,Banking
+128,24,66,90,87,7.8,Ambivert,Low,Arts,Advanced,Low,Medium,Content Creator
+129,20,92,88,48,9.0,Extrovert,Medium,Arts,Advanced,High,Medium,Content Creator
+130,22,66,84,82,7.5,Ambivert,Medium,Technology,Intermediate,High,High,Data Scientist
+131,19,92,63,89,7.75,Introvert,Medium,Government,Intermediate,Low,High,Defense
+132,21,92,75,51,8.35,Introvert,High,Commerce,Beginner,Medium,High,Business Analyst
+133,20,80,59,77,6.95,Ambivert,Low,Commerce,Advanced,Medium,Low,Management
+134,20,65,93,67,7.9,Introvert,Medium,Arts,Intermediate,High,Low,Design
+135,18,78,93,63,8.55,Extrovert,Medium,Arts,Intermediate,High,Medium,Media
+136,20,91,87,73,8.9,Ambivert,Medium,Arts,Advanced,Medium,Medium,Media
+137,22,74,60,41,6.7,Introvert,Medium,Arts,Intermediate,Low,Low,Media
+138,23,55,80,92,6.75,Introvert,Medium,Commerce,Intermediate,Low,High,Management
+139,20,79,78,43,7.85,Introvert,High,Arts,Advanced,High,Medium,Media
+140,23,94,67,61,8.05,Introvert,Low,Commerce,Advanced,Medium,Medium,Business Analyst
+141,23,66,73,86,6.95,Extrovert,Low,Commerce,Intermediate,Low,Medium,Accountant
+142,20,64,57,44,6.05,Ambivert,High,Science,Beginner,Low,High,Researcher
+143,22,90,58,65,7.4,Ambivert,Medium,Government,Advanced,Medium,High,Banking
+144,23,89,68,77,7.85,Extrovert,High,Government,Advanced,Low,Medium,Defense
+145,24,95,53,66,7.4,Extrovert,Low,Arts,Intermediate,High,High,Design
+146,20,62,54,99,5.8,Ambivert,Medium,Government,Beginner,Medium,Low,Defense
+147,21,72,83,87,7.75,Extrovert,Low,Arts,Intermediate,Low,Medium,Media
+148,18,76,72,83,7.4,Ambivert,High,Technology,Beginner,Low,High,AI Engineer
+149,23,94,62,43,7.8,Extrovert,Low,Commerce,Beginner,Low,Low,Management
+150,21,71,67,54,6.9,Extrovert,Medium,Arts,Advanced,High,Low,Content Creator
+151,24,71,77,41,7.4,Ambivert,Medium,Science,Advanced,High,High,Researcher
+152,25,60,93,83,7.65,Extrovert,High,Technology,Advanced,Low,Medium,AI Engineer
+153,20,61,84,63,7.25,Extrovert,Medium,Arts,Beginner,High,Medium,Design
+154,20,56,88,63,7.2,Introvert,High,Science,Intermediate,High,Low,Lab Technician
+155,19,94,69,53,8.15,Introvert,High,Technology,Advanced,Low,Low,Software Engineer
+156,18,60,90,67,7.5,Ambivert,Low,Commerce,Advanced,High,Medium,Management
+157,20,82,83,94,8.25,Extrovert,Medium,Technology,Intermediate,Low,Medium,Software Engineer
+158,22,91,61,84,7.6,Ambivert,Low,Technology,Advanced,Medium,Medium,AI Engineer
+159,19,54,74,83,6.4,Ambivert,Low,Science,Advanced,Low,High,Engineer
+160,18,57,76,75,6.65,Ambivert,Low,Government,Advanced,Low,Low,Civil Services
+161,20,81,72,60,7.65,Ambivert,Medium,Commerce,Intermediate,Medium,Medium,Management
+162,21,76,89,98,8.25,Ambivert,Medium,Government,Advanced,Medium,High,Defense
+163,22,58,82,44,7.0,Ambivert,Low,Commerce,Beginner,High,Medium,Management
+164,20,91,56,67,7.35,Ambivert,Low,Science,Intermediate,Medium,High,Engineer
+165,21,93,55,52,7.4,Extrovert,Low,Arts,Beginner,High,High,Media
+166,23,67,60,55,6.35,Ambivert,Medium,Commerce,Beginner,Low,High,Accountant
+167,22,56,72,90,6.4,Introvert,Medium,Commerce,Beginner,High,Medium,Business Analyst
+168,22,63,76,72,6.95,Ambivert,High,Technology,Intermediate,Low,Medium,Software Engineer
+169,18,84,92,40,8.8,Introvert,Low,Government,Intermediate,Medium,Low,Banking
+170,22,61,78,76,6.95,Ambivert,High,Technology,Advanced,High,High,Software Engineer
+171,20,51,84,70,6.75,Ambivert,Low,Arts,Advanced,High,Low,Design
+172,23,61,93,64,7.7,Extrovert,High,Arts,Advanced,Medium,High,Design
+173,18,82,70,54,7.6,Extrovert,High,Science,Advanced,Low,Medium,Engineer
+174,22,54,66,74,6.0,Ambivert,High,Government,Intermediate,Low,Low,Defense
+175,22,53,58,94,5.55,Extrovert,High,Technology,Advanced,High,Low,Data Scientist
+176,24,84,87,64,8.55,Extrovert,High,Arts,Advanced,Low,High,Media
+177,21,94,67,97,8.05,Ambivert,High,Technology,Intermediate,High,High,AI Engineer
+178,18,64,53,73,5.85,Extrovert,Medium,Science,Beginner,Medium,High,Engineer
+179,19,62,63,96,6.25,Ambivert,Low,Technology,Advanced,Low,Medium,Data Scientist
+180,23,57,53,47,5.5,Ambivert,High,Government,Beginner,Low,Medium,Defense
+181,19,70,84,85,7.7,Ambivert,Medium,Commerce,Intermediate,Medium,High,Accountant
+182,22,77,82,58,7.95,Introvert,High,Arts,Advanced,Medium,Low,Media
+183,21,81,81,92,8.1,Introvert,Low,Arts,Intermediate,Medium,High,Design
+184,23,63,81,56,7.2,Ambivert,High,Technology,Beginner,Medium,Low,AI Engineer
+185,22,88,55,66,7.15,Ambivert,Low,Technology,Advanced,High,High,Data Scientist
+186,18,82,84,97,8.3,Ambivert,High,Commerce,Beginner,High,Low,Accountant
+187,21,64,68,50,6.6,Introvert,High,Science,Advanced,Low,High,Engineer
+188,21,63,94,68,7.85,Ambivert,High,Commerce,Beginner,Medium,Low,Accountant
+189,19,82,91,45,8.65,Extrovert,Low,Commerce,Advanced,High,Low,Accountant
+190,25,92,83,67,8.75,Extrovert,Medium,Commerce,Advanced,Low,Low,Management
+191,24,65,57,92,6.1,Introvert,High,Government,Intermediate,Low,Medium,Defense
+192,18,52,81,68,6.65,Extrovert,Low,Science,Beginner,Medium,High,Lab Technician
+193,22,72,63,67,6.75,Extrovert,Medium,Science,Advanced,Low,High,Researcher
+194,25,76,61,43,6.85,Introvert,Low,Arts,Advanced,Low,High,Design
+195,25,50,79,93,6.45,Introvert,High,Technology,Beginner,Medium,High,AI Engineer
+196,19,69,95,85,8.2,Introvert,High,Commerce,Advanced,Low,Medium,Accountant
+197,24,57,76,62,6.65,Introvert,Low,Technology,Intermediate,High,Low,Data Scientist
+198,22,51,67,81,5.9,Extrovert,Low,Commerce,Beginner,Low,High,Management
+199,25,95,53,97,7.4,Ambivert,High,Government,Advanced,Medium,High,Banking
+200,20,89,88,88,8.85,Introvert,Low,Commerce,Intermediate,High,High,Accountant
+201,24,52,52,89,5.2,Extrovert,Low,Government,Intermediate,Medium,High,Defense
+202,23,85,52,62,6.85,Ambivert,High,Science,Intermediate,Medium,High,Engineer
+203,25,58,50,82,5.4,Introvert,High,Commerce,Advanced,Medium,Low,Management
+204,22,80,64,71,7.2,Extrovert,Low,Science,Intermediate,Medium,Low,Engineer
+205,19,68,70,48,6.9,Ambivert,High,Science,Beginner,Medium,Medium,Engineer
+206,23,72,75,42,7.35,Introvert,Medium,Arts,Advanced,Low,High,Media
+207,19,60,56,68,5.8,Introvert,Medium,Science,Advanced,Medium,High,Researcher
+208,23,69,66,52,6.75,Introvert,Medium,Arts,Beginner,Low,High,Design
+209,19,87,88,77,8.75,Extrovert,Medium,Science,Intermediate,Medium,Medium,Researcher
+210,19,76,57,64,6.65,Extrovert,Low,Government,Beginner,High,High,Civil Services
+211,19,70,88,70,7.9,Ambivert,Medium,Science,Intermediate,High,Medium,Researcher
+212,21,76,63,84,6.95,Ambivert,High,Commerce,Intermediate,Medium,Medium,Business Analyst
+213,23,71,81,53,7.6,Introvert,Medium,Commerce,Advanced,High,Low,Business Analyst
+214,20,53,52,85,5.25,Introvert,High,Technology,Beginner,High,High,Data Scientist
+215,22,75,54,89,6.45,Introvert,Medium,Science,Beginner,High,High,Lab Technician
+216,23,67,61,81,6.4,Introvert,High,Science,Advanced,Low,Low,Engineer
+217,18,81,74,88,7.75,Extrovert,Medium,Technology,Advanced,High,High,Data Scientist
+218,21,66,73,51,6.95,Extrovert,High,Arts,Beginner,Low,Medium,Design
+219,19,77,63,54,7.0,Introvert,Medium,Government,Advanced,High,High,Defense
+220,21,62,82,80,7.2,Ambivert,High,Arts,Intermediate,Low,High,Media
+221,25,56,77,72,6.65,Introvert,Low,Government,Beginner,Medium,Low,Defense
+222,20,51,67,91,5.9,Ambivert,Medium,Commerce,Advanced,Medium,High,Management
+223,25,81,59,80,7.0,Ambivert,Medium,Commerce,Intermediate,Low,High,Accountant
+224,19,60,50,58,5.5,Ambivert,Low,Technology,Advanced,High,High,AI Engineer
+225,20,84,56,94,7.0,Introvert,Medium,Commerce,Advanced,Medium,Low,Management
+226,23,85,78,87,8.15,Extrovert,Low,Arts,Advanced,High,Medium,Design
+227,18,55,77,74,6.6,Extrovert,Low,Science,Intermediate,Low,High,Lab Technician
+228,22,63,51,50,5.7,Extrovert,Low,Arts,Intermediate,Low,Medium,Media
+229,21,59,69,100,6.4,Introvert,Low,Government,Intermediate,Medium,Medium,Defense
+230,20,65,50,60,5.75,Extrovert,High,Commerce,Beginner,Medium,Low,Accountant
+231,25,70,89,48,7.95,Extrovert,Low,Commerce,Intermediate,Medium,High,Business Analyst
+232,24,78,81,86,7.95,Ambivert,High,Science,Beginner,Low,Low,Engineer
+233,22,86,81,49,8.35,Extrovert,Low,Government,Advanced,High,Low,Civil Services
+234,19,52,78,60,6.5,Ambivert,Medium,Arts,Advanced,High,Medium,Design
+235,21,66,62,61,6.4,Introvert,High,Science,Intermediate,High,Medium,Lab Technician
+236,18,95,76,51,8.55,Introvert,Medium,Technology,Intermediate,High,Low,Data Scientist
+237,21,56,58,44,5.7,Ambivert,Medium,Science,Advanced,Low,Low,Researcher
+238,21,73,77,88,7.5,Ambivert,Medium,Commerce,Intermediate,High,Low,Accountant
+239,23,65,80,49,7.25,Extrovert,High,Government,Advanced,High,Low,Banking
+240,20,82,75,91,7.85,Introvert,Medium,Commerce,Advanced,Low,High,Business Analyst
+241,23,76,60,83,6.8,Introvert,High,Technology,Advanced,High,Low,AI Engineer
+242,22,58,67,61,6.25,Introvert,Medium,Arts,Intermediate,Medium,High,Design
+243,18,67,52,77,5.95,Extrovert,Low,Science,Beginner,Low,High,Lab Technician
+244,19,74,88,62,8.1,Extrovert,High,Government,Beginner,Medium,High,Civil Services
+245,21,73,69,41,7.1,Ambivert,Low,Commerce,Advanced,Medium,Medium,Business Analyst
+246,21,87,66,56,7.65,Extrovert,Low,Science,Beginner,Low,Medium,Lab Technician
+247,23,69,59,49,6.4,Extrovert,Low,Arts,Advanced,Medium,High,Media
+248,19,83,56,41,6.95,Extrovert,High,Technology,Advanced,Low,Low,AI Engineer
+249,21,64,85,46,7.45,Ambivert,High,Science,Intermediate,Medium,Low,Lab Technician
+250,22,71,91,54,8.1,Ambivert,Medium,Government,Advanced,Medium,Low,Defense
+251,24,66,90,91,7.8,Extrovert,Low,Arts,Advanced,Medium,Low,Media
+252,19,81,75,80,7.8,Extrovert,Medium,Government,Advanced,High,Medium,Defense
+253,19,76,64,53,7.0,Introvert,Low,Science,Advanced,Medium,Low,Engineer
+254,23,72,85,83,7.85,Extrovert,Low,Science,Advanced,Low,Medium,Researcher
+255,24,65,83,41,7.4,Ambivert,Low,Commerce,Intermediate,Medium,High,Business Analyst
+256,20,65,66,77,6.55,Extrovert,High,Commerce,Intermediate,Medium,Low,Management
+257,25,88,53,46,7.05,Ambivert,Low,Commerce,Intermediate,Medium,Medium,Accountant
+258,20,70,53,61,6.15,Introvert,High,Science,Intermediate,Medium,High,Researcher
+259,25,80,63,69,7.15,Extrovert,Low,Commerce,Beginner,Low,Medium,Management
+260,22,85,68,82,7.65,Extrovert,Low,Science,Advanced,High,Medium,Engineer
+261,19,57,58,59,5.75,Extrovert,Low,Arts,Intermediate,Medium,Low,Media
+262,21,62,84,69,7.3,Introvert,Medium,Technology,Advanced,High,Medium,Software Engineer
+263,22,66,67,56,6.65,Introvert,Low,Government,Advanced,High,Low,Defense
+264,25,75,54,45,6.45,Extrovert,Low,Science,Advanced,Medium,High,Researcher
+265,23,51,91,98,7.1,Introvert,Medium,Government,Advanced,High,Low,Civil Services
+266,24,57,81,72,6.9,Introvert,Low,Arts,Beginner,Medium,Medium,Design
+267,22,74,55,51,6.45,Ambivert,Low,Government,Beginner,High,Low,Banking
+268,25,75,50,89,6.25,Ambivert,High,Government,Advanced,Low,Medium,Civil Services
+269,19,57,83,99,7.0,Introvert,High,Commerce,Beginner,Medium,Low,Accountant
+270,25,54,58,65,5.6,Ambivert,Low,Commerce,Beginner,Medium,High,Management
+271,25,78,74,98,7.6,Ambivert,High,Arts,Beginner,Low,High,Media
+272,24,89,74,47,8.15,Introvert,Medium,Government,Advanced,Medium,Low,Defense
+273,25,79,91,60,8.5,Introvert,Low,Commerce,Advanced,Medium,High,Management
+274,22,66,68,47,6.7,Introvert,Low,Government,Advanced,Low,Low,Defense
+275,19,74,82,56,7.8,Extrovert,Medium,Government,Beginner,Medium,Medium,Civil Services
+276,19,87,74,46,8.05,Extrovert,Medium,Commerce,Intermediate,Low,Medium,Accountant
+277,21,67,71,93,6.9,Ambivert,Low,Technology,Beginner,Low,High,Software Engineer
+278,19,86,60,98,7.3,Introvert,High,Arts,Advanced,Low,Medium,Design
+279,22,59,90,76,7.45,Extrovert,Medium,Arts,Beginner,Medium,Low,Media
+280,18,56,61,74,5.85,Introvert,High,Commerce,Beginner,Low,Medium,Business Analyst
+281,24,83,68,78,7.55,Ambivert,Medium,Arts,Intermediate,Low,Medium,Design
+282,24,69,54,58,6.15,Extrovert,Low,Science,Advanced,High,Low,Engineer
+283,22,73,88,69,8.05,Ambivert,High,Government,Advanced,Medium,High,Civil Services
+284,25,88,71,82,7.95,Introvert,Medium,Arts,Beginner,High,Low,Media
+285,18,59,55,66,5.7,Introvert,Medium,Science,Advanced,Low,High,Engineer
+286,24,95,59,68,7.7,Extrovert,Low,Arts,Advanced,Low,Medium,Content Creator
+287,22,60,60,87,6.0,Introvert,Low,Arts,Advanced,High,Low,Media
+288,19,78,82,63,8.0,Introvert,High,Technology,Advanced,High,High,Data Scientist
+289,18,80,55,79,6.75,Ambivert,Medium,Commerce,Intermediate,Medium,Low,Business Analyst
+290,21,73,85,96,7.9,Introvert,Low,Technology,Beginner,Low,High,AI Engineer
+291,19,85,67,92,7.6,Introvert,Low,Technology,Beginner,Medium,Medium,AI Engineer
+292,20,84,79,56,8.15,Ambivert,Medium,Science,Advanced,High,Medium,Lab Technician
+293,19,82,76,89,7.9,Introvert,High,Technology,Beginner,High,Low,Software Engineer
+294,25,61,78,77,6.95,Ambivert,Medium,Technology,Advanced,High,Low,Software Engineer
+295,22,51,82,65,6.65,Ambivert,Low,Science,Intermediate,Low,High,Engineer
+296,22,81,57,44,6.9,Ambivert,High,Science,Beginner,Low,Low,Engineer
+297,21,84,93,50,8.85,Ambivert,High,Technology,Advanced,High,Low,Software Engineer
+298,20,83,82,96,8.25,Extrovert,High,Government,Advanced,Medium,Low,Civil Services
+299,25,94,76,97,8.5,Ambivert,Medium,Technology,Advanced,High,Medium,Software Engineer
+300,19,90,89,63,8.95,Ambivert,Low,Science,Beginner,Medium,Low,Researcher
+301,23,57,84,54,7.05,Ambivert,Medium,Government,Beginner,Medium,Medium,Defense
+302,25,92,76,81,8.4,Introvert,Medium,Arts,Beginner,Medium,Medium,Content Creator
+303,23,87,67,81,7.7,Ambivert,High,Science,Beginner,High,Low,Engineer
+304,19,78,59,52,6.85,Extrovert,Low,Commerce,Beginner,Low,Low,Business Analyst
+305,23,76,67,72,7.15,Introvert,Medium,Technology,Advanced,High,High,Software Engineer
+306,22,78,94,74,8.6,Introvert,Medium,Arts,Beginner,Medium,Low,Media
+307,24,67,83,40,7.5,Introvert,High,Technology,Advanced,High,Medium,Data Scientist
+308,23,92,51,60,7.15,Extrovert,Medium,Arts,Beginner,Medium,Low,Design
+309,19,60,59,73,5.95,Ambivert,Medium,Technology,Beginner,Low,Medium,Software Engineer
+310,22,82,86,61,8.4,Ambivert,Medium,Technology,Advanced,Medium,Medium,Software Engineer
+311,23,92,71,61,8.15,Ambivert,Medium,Technology,Intermediate,Low,Low,Data Scientist
+312,18,92,70,83,8.1,Ambivert,Low,Government,Advanced,Low,Medium,Defense
+313,25,95,56,41,7.55,Extrovert,Low,Technology,Beginner,High,Medium,AI Engineer
+314,19,59,84,60,7.15,Introvert,Low,Government,Intermediate,Medium,Medium,Banking
+315,19,58,89,42,7.35,Extrovert,Medium,Arts,Advanced,High,Low,Content Creator
+316,24,89,87,70,8.8,Extrovert,High,Science,Advanced,Low,Low,Lab Technician
+317,20,76,56,76,6.6,Extrovert,Low,Science,Intermediate,High,Low,Researcher
+318,23,72,91,95,8.15,Ambivert,High,Government,Advanced,High,High,Banking
+319,22,67,77,85,7.2,Extrovert,Low,Arts,Intermediate,Medium,Medium,Content Creator
+320,22,51,89,94,7.0,Ambivert,Low,Government,Beginner,Low,Low,Civil Services
+321,18,94,88,99,9.1,Ambivert,Low,Arts,Intermediate,High,Medium,Design
+322,21,78,83,57,8.05,Ambivert,Low,Technology,Beginner,Medium,Medium,Software Engineer
+323,21,67,84,56,7.55,Extrovert,High,Commerce,Advanced,Low,High,Management
+324,21,57,75,40,6.6,Introvert,High,Arts,Intermediate,Medium,High,Content Creator
+325,20,50,90,48,7.0,Introvert,Medium,Commerce,Beginner,High,High,Management
+326,20,77,74,69,7.55,Extrovert,Low,Arts,Intermediate,Medium,Medium,Media
+327,23,79,83,90,8.1,Ambivert,High,Commerce,Beginner,Low,High,Management
+328,24,66,92,68,7.9,Extrovert,Low,Arts,Advanced,Medium,Low,Design
+329,24,68,68,45,6.8,Extrovert,Medium,Science,Beginner,Medium,Low,Researcher
+330,23,60,63,46,6.15,Extrovert,Medium,Arts,Beginner,Medium,High,Content Creator
+331,25,90,89,79,8.95,Introvert,Medium,Science,Intermediate,High,Medium,Engineer
+332,18,60,74,85,6.7,Introvert,Low,Government,Advanced,Medium,Low,Defense
+333,23,52,79,59,6.55,Introvert,Low,Government,Intermediate,Low,Medium,Defense
+334,24,50,84,41,6.7,Ambivert,Medium,Science,Intermediate,Medium,High,Engineer
+335,24,50,70,48,6.0,Extrovert,Medium,Commerce,Intermediate,Low,Medium,Accountant
+336,19,67,92,45,7.95,Introvert,Low,Technology,Intermediate,Low,Low,Software Engineer
+337,19,52,85,77,6.85,Introvert,High,Commerce,Beginner,Low,High,Accountant
+338,19,89,63,57,7.6,Extrovert,Low,Government,Beginner,Low,Medium,Banking
+339,22,65,88,97,7.65,Ambivert,Low,Government,Intermediate,Low,Low,Defense
+340,19,81,71,97,7.6,Ambivert,Medium,Commerce,Advanced,Medium,High,Management
+341,25,80,52,92,6.6,Extrovert,Medium,Science,Advanced,Medium,High,Lab Technician
+342,19,83,95,80,8.9,Extrovert,High,Technology,Intermediate,Low,High,Software Engineer
+343,18,93,95,95,9.4,Ambivert,Medium,Government,Advanced,Medium,Medium,Civil Services
+344,21,65,87,41,7.6,Ambivert,Low,Science,Advanced,Medium,Low,Engineer
+345,22,82,63,71,7.25,Introvert,High,Government,Beginner,Medium,Low,Civil Services
+346,18,60,51,88,5.55,Introvert,Medium,Science,Advanced,High,Low,Lab Technician
+347,19,95,89,52,9.2,Ambivert,Medium,Science,Advanced,Low,High,Researcher
+348,24,82,53,40,6.75,Extrovert,Medium,Arts,Intermediate,Medium,High,Content Creator
+349,18,68,81,92,7.45,Introvert,Low,Technology,Intermediate,Medium,High,AI Engineer
+350,24,70,66,65,6.8,Ambivert,Medium,Commerce,Advanced,Low,Medium,Accountant
+351,18,82,74,70,7.8,Introvert,High,Government,Advanced,Medium,Low,Civil Services
+352,23,94,54,75,7.4,Introvert,High,Technology,Intermediate,High,High,AI Engineer
+353,24,54,82,45,6.8,Introvert,Medium,Government,Advanced,High,Low,Defense
+354,22,66,55,78,6.05,Ambivert,Medium,Arts,Advanced,Medium,High,Design
+355,21,87,79,57,8.3,Extrovert,Medium,Technology,Advanced,Medium,High,Data Scientist
+356,20,81,86,93,8.35,Introvert,Medium,Commerce,Beginner,Low,High,Business Analyst
+357,23,56,53,56,5.45,Ambivert,Low,Commerce,Beginner,Low,High,Business Analyst
+358,21,63,70,46,6.65,Introvert,High,Government,Advanced,High,High,Civil Services
+359,22,68,61,80,6.45,Extrovert,Medium,Technology,Beginner,Low,Low,Software Engineer
+360,19,73,90,76,8.15,Ambivert,Low,Technology,Advanced,High,High,Data Scientist
+361,25,83,88,50,8.55,Extrovert,High,Commerce,Beginner,High,Medium,Management
+362,18,76,68,54,7.2,Introvert,High,Science,Intermediate,High,High,Engineer
+363,21,88,55,88,7.15,Introvert,High,Government,Beginner,Low,Low,Civil Services
+364,20,78,79,92,7.85,Extrovert,High,Science,Intermediate,Low,Medium,Engineer
+365,21,53,52,77,5.25,Ambivert,Medium,Government,Advanced,Medium,High,Defense
+366,19,56,82,96,6.9,Ambivert,Low,Arts,Beginner,Low,High,Media
+367,22,86,93,90,8.95,Ambivert,High,Arts,Beginner,Low,Medium,Design
+368,19,81,83,54,8.2,Introvert,High,Science,Advanced,Low,Medium,Researcher
+369,24,73,53,48,6.3,Ambivert,Low,Commerce,Beginner,Medium,Medium,Accountant
+370,25,92,66,98,7.9,Introvert,High,Government,Intermediate,High,High,Defense
+371,21,61,66,42,6.35,Extrovert,High,Technology,Beginner,Low,Medium,AI Engineer
+372,24,93,79,95,8.6,Extrovert,Medium,Commerce,Advanced,Low,Medium,Business Analyst
+373,25,79,81,46,8.0,Extrovert,High,Government,Advanced,Medium,Low,Civil Services
+374,19,50,80,99,6.5,Introvert,Medium,Technology,Beginner,Medium,Low,AI Engineer
+375,20,81,59,78,7.0,Extrovert,Low,Science,Beginner,Low,Low,Lab Technician
+376,20,88,72,94,8.0,Ambivert,High,Government,Beginner,High,High,Defense
+377,23,72,66,88,6.9,Ambivert,Medium,Government,Beginner,High,High,Banking
+378,22,50,86,66,6.8,Extrovert,High,Technology,Advanced,High,Medium,Software Engineer
+379,21,69,92,59,8.05,Ambivert,Medium,Technology,Intermediate,Low,High,AI Engineer
+380,22,94,70,72,8.2,Introvert,Low,Government,Advanced,High,Low,Civil Services
+381,21,73,92,56,8.25,Introvert,Medium,Government,Beginner,Medium,Medium,Banking
+382,22,88,82,54,8.5,Extrovert,Low,Science,Advanced,Low,Medium,Lab Technician
+383,24,94,63,79,7.85,Introvert,Low,Arts,Beginner,Low,Low,Media
+384,24,77,70,86,7.35,Introvert,Low,Technology,Beginner,High,Medium,Data Scientist
+385,24,88,80,98,8.4,Ambivert,Low,Arts,Advanced,High,Medium,Content Creator
+386,20,75,75,43,7.5,Introvert,Medium,Arts,Beginner,Low,Medium,Media
+387,21,72,74,40,7.3,Introvert,Medium,Government,Advanced,Low,Low,Defense
+388,25,64,92,69,7.8,Ambivert,Low,Commerce,Intermediate,High,Low,Business Analyst
+389,18,82,51,95,6.65,Extrovert,Low,Science,Intermediate,Low,High,Lab Technician
+390,19,87,79,45,8.3,Ambivert,High,Arts,Beginner,Medium,Medium,Design
+391,19,74,64,61,6.9,Extrovert,High,Technology,Advanced,Medium,Low,AI Engineer
+392,25,58,69,60,6.35,Introvert,Low,Commerce,Intermediate,Low,Low,Accountant
+393,25,77,73,48,7.5,Introvert,Medium,Government,Intermediate,High,High,Defense
+394,23,77,88,89,8.25,Ambivert,Low,Government,Intermediate,High,Low,Banking
+395,25,95,93,57,9.4,Extrovert,Low,Commerce,Advanced,High,Medium,Business Analyst
+396,18,85,88,60,8.65,Introvert,Medium,Technology,Intermediate,High,High,AI Engineer
+397,18,64,66,71,6.5,Extrovert,High,Commerce,Advanced,Low,High,Accountant
+398,22,62,71,78,6.65,Ambivert,Medium,Commerce,Intermediate,Low,High,Management
+399,24,81,76,84,7.85,Extrovert,High,Commerce,Beginner,High,Low,Business Analyst
+400,25,75,82,83,7.85,Ambivert,High,Government,Intermediate,Medium,Medium,Civil Services
+401,23,58,65,53,6.15,Ambivert,Low,Science,Intermediate,Low,Medium,Engineer
+402,25,61,54,40,5.75,Extrovert,Low,Commerce,Advanced,Medium,Low,Business Analyst
+403,19,74,76,89,7.5,Introvert,High,Arts,Intermediate,High,High,Design
+404,21,82,63,53,7.25,Extrovert,Medium,Arts,Beginner,Medium,High,Content Creator
+405,24,90,75,94,8.25,Ambivert,High,Government,Intermediate,High,Medium,Civil Services
+406,23,61,76,70,6.85,Extrovert,Low,Science,Intermediate,High,Medium,Lab Technician
+407,25,91,51,66,7.1,Extrovert,High,Arts,Beginner,Low,High,Media
+408,18,82,83,43,8.25,Introvert,Low,Government,Advanced,Medium,Medium,Banking
+409,21,90,50,80,7.0,Introvert,High,Arts,Beginner,Medium,Medium,Content Creator
+410,22,52,95,54,7.35,Extrovert,Medium,Arts,Beginner,High,Medium,Design
+411,25,65,91,60,7.8,Introvert,Medium,Arts,Beginner,High,High,Content Creator
+412,24,66,74,73,7.0,Ambivert,Low,Government,Advanced,Medium,Medium,Civil Services
+413,23,56,59,70,5.75,Extrovert,Medium,Commerce,Advanced,High,High,Management
+414,18,88,57,61,7.25,Ambivert,Medium,Government,Beginner,High,Medium,Defense
+415,18,63,73,62,6.8,Ambivert,Low,Government,Intermediate,Medium,High,Civil Services
+416,22,50,77,93,6.35,Extrovert,High,Commerce,Beginner,High,High,Business Analyst
+417,18,92,77,71,8.45,Introvert,High,Commerce,Intermediate,Medium,High,Management
+418,23,82,64,59,7.3,Extrovert,Low,Technology,Intermediate,High,High,Data Scientist
+419,20,70,57,89,6.35,Introvert,Medium,Arts,Beginner,Low,Medium,Media
+420,25,59,77,75,6.8,Extrovert,Low,Arts,Advanced,High,High,Design
+421,24,63,88,81,7.55,Introvert,Medium,Science,Beginner,Low,Low,Lab Technician
+422,18,87,52,70,6.95,Introvert,Medium,Government,Advanced,Low,High,Civil Services
+423,25,91,63,68,7.7,Ambivert,Low,Arts,Beginner,High,Low,Content Creator
+424,25,70,88,53,7.9,Ambivert,High,Commerce,Beginner,Low,Medium,Management
+425,19,62,60,82,6.1,Ambivert,Medium,Science,Beginner,Medium,High,Lab Technician
+426,20,50,63,50,5.65,Introvert,Medium,Government,Intermediate,High,Low,Defense
+427,22,87,87,93,8.7,Ambivert,High,Government,Intermediate,Medium,Medium,Civil Services
+428,23,94,50,62,7.2,Extrovert,Low,Technology,Intermediate,Low,Medium,Data Scientist
+429,23,51,53,64,5.2,Ambivert,Medium,Science,Beginner,Low,Low,Engineer
+430,24,70,63,52,6.65,Introvert,Low,Commerce,Intermediate,Medium,Low,Accountant
+431,25,84,62,78,7.3,Introvert,Low,Arts,Intermediate,High,High,Media
+432,20,61,73,48,6.7,Ambivert,High,Government,Intermediate,Low,Low,Defense
+433,19,86,65,97,7.55,Ambivert,Low,Government,Beginner,Medium,Medium,Defense
+434,25,90,89,56,8.95,Introvert,Medium,Science,Advanced,High,Low,Engineer
+435,18,86,81,54,8.35,Ambivert,Medium,Technology,Intermediate,High,Medium,AI Engineer
+436,24,57,53,91,5.5,Introvert,Medium,Commerce,Advanced,High,Medium,Accountant
+437,23,65,67,56,6.6,Ambivert,Medium,Government,Beginner,Medium,Low,Defense
+438,23,65,81,82,7.3,Extrovert,Medium,Science,Intermediate,Low,High,Lab Technician
+439,24,67,72,47,6.95,Ambivert,High,Commerce,Beginner,Low,Low,Accountant
+440,23,93,76,98,8.45,Introvert,High,Science,Advanced,Low,Medium,Researcher
+441,23,68,76,53,7.2,Extrovert,Medium,Government,Beginner,Medium,Medium,Civil Services
+442,22,54,77,61,6.55,Ambivert,Low,Science,Intermediate,Low,Low,Lab Technician
+443,23,78,77,60,7.75,Extrovert,Medium,Technology,Intermediate,Medium,Low,Data Scientist
+444,18,52,83,71,6.75,Extrovert,Low,Commerce,Advanced,High,Low,Accountant
+445,19,73,51,72,6.2,Introvert,Low,Arts,Intermediate,Low,Medium,Media
+446,19,62,82,55,7.2,Ambivert,Low,Commerce,Intermediate,Medium,Medium,Business Analyst
+447,23,90,91,98,9.05,Introvert,High,Arts,Beginner,High,High,Media
+448,25,59,87,53,7.3,Introvert,High,Commerce,Beginner,Medium,Low,Accountant
+449,25,94,70,96,8.2,Extrovert,Low,Science,Advanced,Low,High,Lab Technician
+450,24,61,91,77,7.6,Introvert,High,Science,Advanced,Low,High,Researcher
+451,23,92,83,96,8.75,Extrovert,Medium,Commerce,Advanced,Low,Low,Management
+452,22,65,50,44,5.75,Extrovert,Low,Arts,Advanced,High,Medium,Content Creator
+453,20,85,74,94,7.95,Ambivert,Low,Government,Advanced,High,Low,Civil Services
+454,25,74,73,61,7.35,Introvert,Low,Technology,Intermediate,High,Medium,AI Engineer
+455,20,65,64,42,6.45,Introvert,High,Science,Intermediate,Low,High,Researcher
+456,24,63,73,91,6.8,Introvert,High,Commerce,Advanced,Medium,Low,Accountant
+457,21,94,53,93,7.35,Extrovert,Medium,Government,Advanced,Low,High,Banking
+458,21,63,71,57,6.7,Introvert,Low,Government,Beginner,High,Medium,Defense
+459,21,63,92,85,7.75,Introvert,Low,Arts,Advanced,High,High,Content Creator
+460,20,89,71,86,8.0,Ambivert,High,Government,Advanced,Medium,Medium,Civil Services
+461,18,74,89,83,8.15,Ambivert,Low,Technology,Beginner,High,High,Software Engineer
+462,19,66,87,45,7.65,Introvert,High,Technology,Advanced,Medium,Medium,Data Scientist
+463,22,51,66,52,5.85,Introvert,Medium,Technology,Intermediate,High,High,AI Engineer
+464,23,64,68,88,6.6,Introvert,Medium,Government,Intermediate,High,High,Civil Services
+465,18,60,57,100,5.85,Extrovert,Medium,Technology,Advanced,Low,Medium,Software Engineer
+466,24,67,64,49,6.55,Introvert,Medium,Commerce,Intermediate,Medium,Medium,Accountant
+467,20,89,64,67,7.65,Ambivert,High,Technology,Advanced,Low,Low,Software Engineer
+468,23,83,75,43,7.9,Extrovert,Medium,Technology,Intermediate,High,Medium,Data Scientist
+469,19,88,88,66,8.8,Ambivert,Low,Government,Advanced,Medium,Medium,Banking
+470,20,66,71,82,6.85,Introvert,Low,Commerce,Intermediate,High,High,Accountant
+471,24,76,92,64,8.4,Ambivert,Medium,Commerce,Intermediate,Medium,High,Business Analyst
+472,19,50,69,70,5.95,Extrovert,Medium,Science,Intermediate,Medium,Low,Researcher
+473,19,75,76,59,7.55,Introvert,High,Commerce,Advanced,High,Low,Accountant
+474,19,51,85,67,6.8,Ambivert,High,Arts,Intermediate,High,Medium,Media
+475,18,73,95,99,8.4,Ambivert,Medium,Arts,Intermediate,Medium,Medium,Media
+476,21,57,56,71,5.65,Introvert,Low,Government,Intermediate,High,High,Defense
+477,23,94,57,62,7.55,Introvert,High,Science,Intermediate,High,Low,Researcher
+478,18,63,74,63,6.85,Extrovert,Low,Arts,Beginner,Low,Medium,Media
+479,20,53,93,58,7.3,Ambivert,Medium,Technology,Intermediate,Medium,Low,AI Engineer
+480,18,54,60,79,5.7,Extrovert,Low,Government,Intermediate,Medium,Medium,Banking
+481,21,69,83,91,7.6,Ambivert,Medium,Technology,Beginner,High,High,AI Engineer
+482,23,66,70,61,6.8,Ambivert,Medium,Government,Beginner,High,Medium,Civil Services
+483,19,60,55,55,5.75,Ambivert,Low,Technology,Advanced,Medium,High,Data Scientist
+484,25,68,82,74,7.5,Ambivert,Low,Technology,Advanced,High,High,Software Engineer
+485,19,76,51,95,6.35,Ambivert,High,Science,Intermediate,Low,Low,Lab Technician
+486,18,67,58,89,6.25,Ambivert,High,Commerce,Beginner,Low,Low,Accountant
+487,24,88,74,41,8.1,Ambivert,Low,Commerce,Beginner,Medium,Low,Management
+488,25,79,85,89,8.2,Ambivert,Low,Arts,Intermediate,Medium,Medium,Media
+489,24,52,95,67,7.35,Introvert,High,Technology,Advanced,High,Medium,Software Engineer
+490,21,93,50,44,7.15,Ambivert,Low,Science,Advanced,Medium,High,Researcher
+491,22,91,67,62,7.9,Ambivert,High,Technology,Intermediate,Medium,Medium,Data Scientist
+492,25,74,77,44,7.55,Ambivert,High,Science,Beginner,High,Medium,Lab Technician
+493,24,69,53,69,6.1,Ambivert,Low,Science,Advanced,High,Medium,Engineer
+494,20,76,86,52,8.1,Extrovert,Medium,Government,Advanced,High,High,Civil Services
+495,23,86,66,56,7.6,Ambivert,Medium,Science,Beginner,Medium,High,Engineer
+496,22,63,84,81,7.35,Introvert,Medium,Government,Intermediate,High,Medium,Defense
+497,19,71,91,77,8.1,Introvert,Low,Commerce,Beginner,Medium,Medium,Accountant
+498,24,92,73,74,8.25,Extrovert,Medium,Commerce,Beginner,High,Low,Accountant
+499,23,84,82,93,8.3,Introvert,Medium,Technology,Advanced,Low,Medium,Data Scientist
+500,24,54,70,95,6.2,Ambivert,Low,Commerce,Intermediate,Low,High,Accountant
+501,25,95,52,56,7.35,Ambivert,Medium,Government,Intermediate,Low,Low,Defense
+502,25,74,70,86,7.2,Introvert,Medium,Arts,Beginner,Medium,Medium,Media
+503,21,54,67,91,6.05,Ambivert,High,Arts,Intermediate,Low,Medium,Design
+504,20,84,53,64,6.85,Extrovert,High,Commerce,Intermediate,Medium,High,Management
+505,20,63,60,67,6.15,Introvert,Low,Science,Advanced,Low,High,Researcher
+506,25,68,60,98,6.4,Introvert,Medium,Government,Beginner,High,Medium,Banking
+507,22,69,68,62,6.85,Extrovert,Low,Government,Advanced,High,Low,Defense
+508,24,93,79,67,8.6,Ambivert,Low,Science,Beginner,Medium,High,Lab Technician
+509,23,77,74,93,7.55,Extrovert,Low,Arts,Intermediate,High,Medium,Content Creator
+510,23,82,51,90,6.65,Extrovert,High,Government,Intermediate,Medium,High,Defense
+511,21,55,69,42,6.2,Extrovert,Low,Technology,Beginner,High,High,Data Scientist
+512,20,87,91,81,8.9,Extrovert,Medium,Government,Beginner,Medium,Low,Civil Services
+513,24,89,84,83,8.65,Introvert,High,Arts,Intermediate,Low,High,Content Creator
+514,23,56,73,86,6.45,Ambivert,High,Government,Intermediate,High,Medium,Defense
+515,21,88,92,60,9.0,Ambivert,Medium,Commerce,Intermediate,High,High,Accountant
+516,24,69,54,89,6.15,Extrovert,High,Commerce,Beginner,High,High,Accountant
+517,22,77,86,81,8.15,Extrovert,Medium,Commerce,Intermediate,Medium,High,Accountant
+518,25,54,74,60,6.4,Introvert,Medium,Arts,Beginner,Medium,Medium,Design
+519,18,63,72,75,6.75,Extrovert,Low,Arts,Advanced,Medium,Low,Design
+520,21,84,50,89,6.7,Ambivert,High,Technology,Advanced,High,Medium,Data Scientist
+521,25,52,54,72,5.3,Extrovert,High,Technology,Beginner,Medium,Medium,Software Engineer
+522,24,87,83,100,8.5,Ambivert,Medium,Science,Intermediate,Low,Low,Engineer
+523,25,74,67,49,7.05,Ambivert,High,Arts,Advanced,High,Low,Content Creator
+524,25,69,57,98,6.3,Ambivert,Medium,Science,Beginner,Low,Medium,Researcher
+525,19,56,88,74,7.2,Ambivert,Medium,Arts,Beginner,Medium,Medium,Content Creator
+526,22,70,77,49,7.35,Ambivert,Low,Arts,Beginner,Medium,Low,Design
+527,20,68,76,68,7.2,Introvert,High,Commerce,Beginner,Low,Low,Management
+528,19,75,69,88,7.2,Ambivert,High,Science,Intermediate,Low,Low,Engineer
+529,18,70,67,41,6.85,Ambivert,Medium,Technology,Advanced,Low,High,Software Engineer
+530,24,93,68,49,8.05,Extrovert,Medium,Technology,Advanced,Medium,High,AI Engineer
+531,23,75,63,43,6.9,Ambivert,Medium,Commerce,Advanced,Medium,Low,Management
+532,25,84,59,51,7.15,Introvert,Medium,Technology,Advanced,Low,Low,Software Engineer
+533,20,69,67,100,6.8,Ambivert,Medium,Commerce,Intermediate,High,High,Management
+534,21,91,82,83,8.65,Ambivert,High,Science,Beginner,Medium,High,Lab Technician
+535,25,80,89,76,8.45,Extrovert,Medium,Commerce,Beginner,Low,Low,Business Analyst
+536,24,61,63,70,6.2,Ambivert,High,Arts,Intermediate,High,Medium,Content Creator
+537,21,52,72,69,6.2,Extrovert,Medium,Government,Intermediate,High,Low,Defense
+538,20,93,72,98,8.25,Extrovert,High,Commerce,Beginner,High,Medium,Management
+539,23,79,88,44,8.35,Extrovert,Low,Government,Intermediate,Low,Low,Civil Services
+540,21,56,87,51,7.15,Introvert,Low,Arts,Beginner,High,High,Content Creator
+541,20,55,59,73,5.7,Introvert,Medium,Technology,Advanced,High,Low,Data Scientist
+542,20,53,80,74,6.65,Extrovert,High,Technology,Intermediate,Low,Low,Software Engineer
+543,23,51,53,55,5.2,Ambivert,Medium,Technology,Beginner,Low,Medium,AI Engineer
+544,24,93,91,93,9.2,Ambivert,High,Arts,Beginner,High,High,Content Creator
+545,23,72,85,92,7.85,Extrovert,Low,Arts,Intermediate,Medium,Low,Design
+546,18,75,69,51,7.2,Ambivert,Medium,Arts,Intermediate,High,High,Media
+547,22,71,57,91,6.4,Extrovert,Medium,Arts,Advanced,High,Medium,Design
+548,21,62,73,84,6.75,Introvert,Medium,Arts,Beginner,Low,Medium,Media
+549,24,68,83,98,7.55,Ambivert,Low,Science,Beginner,Low,High,Engineer
+550,20,80,71,76,7.55,Extrovert,Medium,Commerce,Advanced,Medium,Medium,Business Analyst
+551,19,60,71,93,6.55,Ambivert,Medium,Arts,Intermediate,Low,Low,Design
+552,19,95,79,52,8.7,Ambivert,High,Technology,Intermediate,Medium,High,Software Engineer
+553,25,94,87,48,9.05,Introvert,Low,Government,Advanced,Medium,Low,Banking
+554,23,56,74,70,6.5,Extrovert,Medium,Government,Intermediate,Medium,High,Banking
+555,21,50,55,52,5.25,Introvert,High,Science,Beginner,Medium,Low,Researcher
+556,20,76,66,96,7.1,Extrovert,Medium,Government,Beginner,High,Medium,Defense
+557,25,79,83,97,8.1,Ambivert,Medium,Science,Advanced,Medium,Low,Engineer
+558,20,70,77,73,7.35,Introvert,High,Arts,Beginner,Low,High,Media
+559,23,68,58,92,6.3,Extrovert,Low,Science,Intermediate,Medium,Low,Engineer
+560,19,76,61,55,6.85,Extrovert,Low,Government,Beginner,Medium,High,Banking
+561,25,91,65,91,7.8,Extrovert,Low,Government,Advanced,Medium,Low,Civil Services
+562,20,84,74,77,7.9,Ambivert,Medium,Government,Beginner,High,High,Banking
+563,24,78,93,69,8.55,Ambivert,High,Commerce,Beginner,Medium,Low,Management
+564,22,56,89,58,7.25,Extrovert,Low,Technology,Advanced,Medium,Low,Software Engineer
+565,18,79,84,93,8.15,Extrovert,Medium,Government,Beginner,Medium,Medium,Defense
+566,24,61,92,86,7.65,Extrovert,Low,Commerce,Beginner,Medium,Low,Management
+567,21,93,87,77,9.0,Extrovert,Low,Technology,Beginner,High,Low,Software Engineer
+568,18,61,83,50,7.2,Ambivert,Low,Technology,Advanced,Low,High,Data Scientist
+569,20,54,74,61,6.4,Introvert,Low,Commerce,Intermediate,Low,Low,Business Analyst
+570,25,86,86,41,8.6,Introvert,Low,Technology,Beginner,High,Medium,AI Engineer
+571,23,64,58,78,6.1,Ambivert,Low,Commerce,Beginner,High,Low,Management
+572,22,59,80,83,6.95,Ambivert,Medium,Government,Intermediate,Medium,Low,Defense
+573,18,61,50,79,5.55,Introvert,Medium,Technology,Advanced,Medium,High,Data Scientist
+574,25,53,90,86,7.15,Extrovert,Low,Government,Intermediate,Medium,High,Civil Services
+575,21,62,93,46,7.75,Extrovert,High,Arts,Beginner,Low,Low,Media
+576,19,62,90,83,7.6,Extrovert,Medium,Arts,Advanced,High,Medium,Media
+577,21,93,91,52,9.2,Extrovert,Medium,Arts,Advanced,Medium,Medium,Design
+578,19,72,95,56,8.35,Introvert,High,Technology,Beginner,Medium,Medium,Data Scientist
+579,21,53,76,61,6.45,Introvert,Low,Commerce,Advanced,High,High,Management
+580,19,70,85,98,7.75,Introvert,High,Government,Intermediate,High,Medium,Defense
+581,21,53,92,42,7.25,Introvert,Medium,Science,Intermediate,High,Medium,Engineer
+582,21,89,89,58,8.9,Extrovert,Low,Technology,Intermediate,High,Low,Software Engineer
+583,19,73,79,93,7.6,Extrovert,Medium,Arts,Intermediate,High,Low,Media
+584,19,53,57,86,5.5,Extrovert,Low,Science,Intermediate,Medium,Medium,Lab Technician
+585,21,78,76,43,7.7,Introvert,Low,Commerce,Advanced,Medium,High,Management
+586,25,54,88,100,7.1,Introvert,Medium,Commerce,Advanced,High,Medium,Management
+587,22,55,91,82,7.3,Extrovert,High,Government,Advanced,Low,Low,Civil Services
+588,18,50,63,90,5.65,Introvert,Low,Technology,Intermediate,Low,Medium,Software Engineer
+589,24,74,61,63,6.75,Introvert,Medium,Arts,Intermediate,High,Medium,Media
+590,23,62,64,84,6.3,Introvert,Medium,Government,Advanced,Medium,High,Defense
+591,24,79,77,42,7.8,Introvert,High,Commerce,Advanced,Medium,Medium,Management
+592,23,80,94,83,8.7,Extrovert,Low,Technology,Intermediate,High,Low,Data Scientist
+593,18,70,77,92,7.35,Extrovert,Low,Arts,Intermediate,Low,Low,Media
+594,22,73,51,89,6.2,Ambivert,Medium,Arts,Advanced,Low,Medium,Content Creator
+595,24,93,84,87,8.85,Extrovert,High,Technology,Advanced,High,High,AI Engineer
+596,25,95,62,61,7.85,Extrovert,Low,Commerce,Beginner,High,Low,Business Analyst
+597,25,82,86,60,8.4,Ambivert,High,Government,Intermediate,Low,Low,Defense
+598,25,54,56,68,5.5,Ambivert,Medium,Technology,Beginner,Medium,High,Software Engineer
+599,18,64,74,51,6.9,Ambivert,Medium,Government,Advanced,High,Medium,Defense
+600,21,58,68,78,6.3,Ambivert,Low,Arts,Beginner,Medium,Medium,Content Creator
+601,21,53,51,73,5.2,Introvert,Medium,Science,Beginner,High,Low,Engineer
+602,25,51,93,85,7.2,Ambivert,Medium,Commerce,Advanced,Low,High,Accountant
+603,18,56,53,95,5.45,Extrovert,Medium,Arts,Beginner,Low,High,Media
+604,22,66,59,71,6.25,Introvert,Low,Science,Advanced,Low,Medium,Lab Technician
+605,20,67,57,54,6.2,Ambivert,Medium,Science,Advanced,Low,Low,Lab Technician
+606,25,80,70,74,7.5,Introvert,Low,Commerce,Intermediate,Medium,High,Business Analyst
+607,20,81,94,67,8.75,Extrovert,High,Technology,Advanced,High,High,Data Scientist
+608,19,77,63,84,7.0,Ambivert,Low,Science,Beginner,Medium,Low,Researcher
+609,25,57,82,92,6.95,Introvert,Low,Government,Beginner,High,Low,Defense
+610,23,50,87,71,6.85,Introvert,High,Arts,Advanced,Low,High,Design
+611,22,73,86,45,7.95,Ambivert,Medium,Technology,Beginner,Medium,Low,Data Scientist
+612,21,52,50,70,5.1,Ambivert,Medium,Technology,Advanced,High,Medium,AI Engineer
+613,18,53,54,66,5.35,Ambivert,High,Arts,Intermediate,Low,High,Design
+614,21,84,72,91,7.8,Extrovert,High,Technology,Beginner,High,Medium,Data Scientist
+615,22,86,53,84,6.95,Introvert,Medium,Arts,Intermediate,Medium,Low,Content Creator
+616,18,53,87,98,7.0,Extrovert,Medium,Arts,Beginner,Low,High,Content Creator
+617,23,89,76,71,8.25,Introvert,Medium,Arts,Advanced,High,Medium,Media
+618,23,54,95,90,7.45,Extrovert,Low,Science,Beginner,Low,Medium,Lab Technician
+619,21,89,89,55,8.9,Ambivert,Low,Science,Advanced,Low,Low,Lab Technician
+620,25,64,63,56,6.35,Introvert,Medium,Commerce,Intermediate,Medium,Medium,Management
+621,24,93,81,78,8.7,Introvert,Medium,Government,Advanced,High,Low,Defense
+622,24,79,86,69,8.25,Ambivert,Low,Science,Advanced,Low,High,Lab Technician
+623,23,82,68,86,7.5,Introvert,Medium,Government,Advanced,Medium,High,Banking
+624,19,93,75,100,8.4,Introvert,Medium,Government,Advanced,High,Low,Banking
+625,25,72,77,60,7.45,Ambivert,Low,Science,Beginner,High,Medium,Engineer
+626,25,50,61,91,5.55,Introvert,Medium,Science,Beginner,Low,Low,Researcher
+627,24,65,75,96,7.0,Introvert,Medium,Government,Intermediate,Low,Medium,Banking
+628,22,61,83,46,7.2,Introvert,Medium,Arts,Beginner,High,Medium,Media
+629,21,79,52,96,6.55,Introvert,Low,Commerce,Advanced,Low,High,Accountant
+630,24,56,76,89,6.6,Ambivert,Low,Government,Beginner,Medium,High,Civil Services
+631,18,68,80,64,7.4,Ambivert,Medium,Technology,Beginner,High,Low,Data Scientist
+632,24,60,76,97,6.8,Extrovert,Medium,Science,Beginner,Low,High,Lab Technician
+633,20,70,51,40,6.05,Extrovert,Low,Science,Advanced,Medium,Medium,Lab Technician
+634,20,92,78,68,8.5,Extrovert,Low,Government,Intermediate,Medium,High,Civil Services
+635,21,85,50,92,6.75,Extrovert,Low,Technology,Advanced,Medium,High,Data Scientist
+636,22,56,63,71,5.95,Ambivert,Low,Technology,Intermediate,Low,Low,AI Engineer
+637,20,85,64,49,7.45,Introvert,Low,Arts,Intermediate,High,Medium,Design
+638,19,66,67,56,6.65,Ambivert,Medium,Government,Intermediate,Low,Medium,Defense
+639,24,62,71,62,6.65,Introvert,Low,Arts,Intermediate,High,Low,Design
+640,20,66,61,82,6.35,Extrovert,Low,Technology,Beginner,High,Low,AI Engineer
+641,21,72,74,44,7.3,Introvert,Medium,Technology,Advanced,High,Medium,Software Engineer
+642,24,77,76,53,7.65,Introvert,Medium,Commerce,Advanced,High,Low,Management
+643,24,80,54,77,6.7,Introvert,Medium,Science,Beginner,Low,Low,Researcher
+644,21,94,88,91,9.1,Introvert,Low,Technology,Intermediate,Low,High,Software Engineer
+645,19,90,80,75,8.5,Ambivert,High,Technology,Beginner,Low,Low,Data Scientist
+646,23,53,89,45,7.1,Extrovert,Low,Commerce,Beginner,High,High,Management
+647,19,95,51,64,7.3,Extrovert,Low,Commerce,Beginner,High,Low,Accountant
+648,25,64,53,46,5.85,Extrovert,Medium,Science,Beginner,Low,Low,Lab Technician
+649,25,94,50,93,7.2,Extrovert,Medium,Commerce,Advanced,Medium,Low,Management
+650,21,65,88,82,7.65,Ambivert,Medium,Commerce,Beginner,High,Medium,Accountant
+651,21,84,76,100,8.0,Introvert,High,Technology,Intermediate,Medium,Medium,AI Engineer
+652,18,85,61,88,7.3,Extrovert,Low,Technology,Intermediate,Low,High,AI Engineer
+653,24,55,94,66,7.45,Introvert,High,Science,Advanced,Medium,High,Engineer
+654,25,83,86,52,8.45,Introvert,Medium,Commerce,Beginner,Low,Low,Business Analyst
+655,22,68,73,68,7.05,Introvert,Low,Technology,Intermediate,Medium,Medium,Software Engineer
+656,21,55,72,44,6.35,Extrovert,Low,Commerce,Advanced,High,Medium,Accountant
+657,21,51,90,72,7.05,Extrovert,Low,Technology,Advanced,High,Low,Data Scientist
+658,25,88,90,88,8.9,Extrovert,Low,Government,Intermediate,High,Low,Civil Services
+659,21,74,92,55,8.3,Introvert,Low,Technology,Beginner,High,High,Software Engineer
+660,23,60,93,77,7.65,Extrovert,Medium,Commerce,Advanced,High,Low,Management
+661,25,55,67,46,6.1,Introvert,Medium,Commerce,Beginner,High,Low,Management
+662,23,65,63,83,6.4,Introvert,High,Technology,Beginner,High,Medium,Data Scientist
+663,23,50,94,75,7.2,Ambivert,Medium,Technology,Advanced,Low,Medium,Data Scientist
+664,21,54,55,75,5.45,Introvert,Medium,Technology,Advanced,High,Low,Data Scientist
+665,20,51,85,98,6.8,Extrovert,Low,Government,Advanced,Low,Medium,Banking
+666,19,91,81,48,8.6,Extrovert,Medium,Arts,Intermediate,Low,Low,Media
+667,19,77,61,71,6.9,Introvert,Medium,Science,Beginner,Low,Low,Engineer
+668,21,65,52,58,5.85,Extrovert,High,Arts,Intermediate,Low,High,Design
+669,25,53,56,97,5.45,Extrovert,High,Arts,Intermediate,Low,Low,Design
+670,23,69,50,65,5.95,Extrovert,Low,Arts,Beginner,Medium,Medium,Design
+671,24,68,87,87,7.75,Introvert,High,Science,Intermediate,Medium,Medium,Lab Technician
+672,21,76,80,48,7.8,Ambivert,Medium,Science,Beginner,Low,High,Researcher
+673,23,77,61,94,6.9,Introvert,High,Arts,Advanced,High,High,Design
+674,25,80,63,80,7.15,Ambivert,High,Science,Beginner,High,High,Researcher
+675,25,63,54,72,5.85,Introvert,Low,Science,Beginner,Medium,High,Researcher
+676,22,66,67,55,6.65,Introvert,Low,Arts,Advanced,Medium,High,Content Creator
+677,20,55,57,96,5.6,Extrovert,Low,Government,Beginner,High,Low,Defense
+678,21,72,52,62,6.2,Extrovert,High,Arts,Advanced,Low,Medium,Media
+679,18,78,64,72,7.1,Ambivert,Medium,Government,Advanced,High,Medium,Defense
+680,23,60,55,93,5.75,Extrovert,Low,Arts,Intermediate,Low,Medium,Media
+681,22,79,71,89,7.5,Extrovert,High,Science,Advanced,Low,High,Researcher
+682,23,58,53,94,5.55,Introvert,Low,Technology,Intermediate,Medium,Medium,Software Engineer
+683,24,63,91,91,7.7,Ambivert,High,Commerce,Advanced,Medium,Medium,Management
+684,18,82,53,44,6.75,Introvert,Medium,Science,Beginner,High,Low,Researcher
+685,22,67,77,91,7.2,Extrovert,Low,Technology,Advanced,Low,Low,Data Scientist
+686,23,69,64,85,6.65,Extrovert,Medium,Science,Intermediate,High,Low,Engineer
+687,21,92,94,94,9.3,Introvert,High,Arts,Advanced,Low,High,Design
+688,20,83,80,92,8.15,Extrovert,Medium,Science,Intermediate,Medium,Low,Engineer
+689,22,65,86,74,7.55,Introvert,Medium,Arts,Intermediate,High,Medium,Media
+690,20,61,63,76,6.2,Ambivert,Low,Commerce,Advanced,High,Low,Accountant
+691,21,51,74,79,6.25,Extrovert,High,Commerce,Beginner,High,Medium,Management
+692,21,93,56,52,7.45,Ambivert,High,Science,Advanced,Low,Medium,Engineer
+693,22,92,94,92,9.3,Ambivert,Low,Arts,Advanced,High,High,Design
+694,22,67,88,83,7.75,Extrovert,Low,Government,Advanced,Medium,High,Civil Services
+695,21,51,74,85,6.25,Introvert,Medium,Commerce,Advanced,Low,Medium,Accountant
+696,23,94,77,83,8.55,Extrovert,High,Technology,Intermediate,Low,High,AI Engineer
+697,20,50,80,65,6.5,Ambivert,High,Commerce,Beginner,Low,Medium,Management
+698,18,81,73,61,7.7,Introvert,Medium,Arts,Beginner,Low,Low,Content Creator
+699,23,79,69,91,7.4,Introvert,Low,Government,Beginner,Medium,Low,Banking
+700,19,53,61,68,5.7,Extrovert,High,Government,Advanced,Low,Low,Defense
+701,19,93,86,76,8.95,Ambivert,Medium,Technology,Advanced,High,Medium,Software Engineer
+702,21,90,52,56,7.1,Introvert,Low,Science,Advanced,High,Low,Researcher
+703,19,75,67,40,7.1,Extrovert,Medium,Commerce,Intermediate,High,Low,Management
+704,25,85,50,65,6.75,Extrovert,Medium,Government,Beginner,Low,High,Defense
+705,19,77,52,50,6.45,Introvert,Low,Arts,Intermediate,Low,Medium,Media
+706,20,78,83,70,8.05,Extrovert,High,Government,Advanced,High,High,Civil Services
+707,24,84,59,80,7.15,Ambivert,Low,Arts,Beginner,Low,Medium,Media
+708,18,70,54,43,6.2,Introvert,Low,Science,Intermediate,High,Low,Researcher
+709,19,67,57,78,6.2,Introvert,Low,Arts,Intermediate,Low,High,Content Creator
+710,24,91,76,88,8.35,Ambivert,Medium,Science,Advanced,Low,High,Researcher
+711,21,80,70,42,7.5,Extrovert,Low,Commerce,Advanced,Low,High,Management
+712,20,74,79,58,7.65,Ambivert,Medium,Commerce,Advanced,High,High,Business Analyst
+713,20,85,51,69,6.8,Introvert,Low,Arts,Advanced,Medium,Medium,Design
+714,20,94,93,68,9.35,Ambivert,High,Science,Advanced,Medium,Medium,Lab Technician
+715,22,66,87,81,7.65,Introvert,High,Commerce,Intermediate,Low,High,Management
+716,22,90,62,87,7.6,Extrovert,Medium,Technology,Advanced,Medium,Low,Software Engineer
+717,20,74,79,73,7.65,Extrovert,Low,Government,Beginner,High,Low,Civil Services
+718,21,64,61,78,6.25,Introvert,Low,Government,Advanced,Medium,Low,Banking
+719,22,64,78,77,7.1,Ambivert,Medium,Government,Intermediate,High,Medium,Defense
+720,25,68,55,62,6.15,Extrovert,High,Commerce,Intermediate,Medium,Low,Business Analyst
+721,25,60,82,78,7.1,Extrovert,High,Arts,Advanced,Low,Low,Media
+722,19,62,75,46,6.85,Ambivert,High,Technology,Intermediate,Medium,High,AI Engineer
+723,25,51,90,86,7.05,Introvert,Low,Technology,Beginner,Medium,Medium,AI Engineer
+724,18,59,75,55,6.7,Extrovert,High,Commerce,Beginner,High,Low,Business Analyst
+725,21,57,86,70,7.15,Ambivert,Low,Commerce,Advanced,Low,Medium,Management
+726,23,81,62,96,7.15,Ambivert,Medium,Government,Intermediate,High,Low,Civil Services
+727,18,94,82,41,8.8,Introvert,High,Commerce,Advanced,Medium,Low,Management
+728,24,59,72,46,6.55,Extrovert,Low,Technology,Advanced,High,Low,Software Engineer
+729,25,51,64,79,5.75,Extrovert,High,Arts,Intermediate,Medium,High,Content Creator
+730,18,92,54,68,7.3,Introvert,Medium,Commerce,Advanced,Low,Medium,Accountant
+731,24,83,81,98,8.2,Introvert,High,Science,Beginner,Medium,High,Engineer
+732,20,83,61,81,7.2,Introvert,High,Technology,Intermediate,High,High,Data Scientist
+733,24,87,78,90,8.25,Introvert,Medium,Arts,Advanced,Low,Low,Media
+734,23,51,91,73,7.1,Extrovert,Medium,Commerce,Advanced,Medium,Medium,Management
+735,23,62,55,63,5.85,Extrovert,Low,Science,Beginner,Medium,Low,Lab Technician
+736,20,72,64,78,6.8,Introvert,Low,Commerce,Intermediate,High,Medium,Management
+737,22,80,62,88,7.1,Extrovert,High,Science,Beginner,High,Low,Engineer
+738,25,68,92,86,8.0,Extrovert,High,Government,Intermediate,High,Low,Civil Services
+739,19,68,89,41,7.85,Extrovert,Medium,Technology,Advanced,Low,Low,AI Engineer
+740,22,75,83,40,7.9,Introvert,Low,Commerce,Intermediate,Low,High,Business Analyst
+741,19,54,69,63,6.15,Introvert,High,Commerce,Advanced,High,High,Business Analyst
+742,24,81,72,98,7.65,Introvert,Medium,Technology,Intermediate,High,Low,AI Engineer
+743,18,62,93,70,7.75,Introvert,High,Government,Advanced,Low,High,Banking
+744,22,61,55,93,5.8,Introvert,High,Science,Advanced,Medium,High,Lab Technician
+745,25,85,78,96,8.15,Introvert,Medium,Government,Beginner,Medium,Low,Civil Services
+746,24,87,86,45,8.65,Extrovert,Low,Technology,Advanced,Low,Medium,AI Engineer
+747,22,89,58,79,7.35,Introvert,Low,Government,Advanced,Medium,High,Defense
+748,21,93,69,80,8.1,Introvert,Medium,Science,Intermediate,High,Medium,Engineer
+749,23,89,62,80,7.55,Extrovert,Low,Technology,Intermediate,High,Low,Data Scientist
+750,18,57,58,80,5.75,Ambivert,Low,Commerce,Advanced,Medium,High,Management
+751,20,93,74,44,8.35,Introvert,Medium,Commerce,Advanced,High,High,Management
+752,23,87,80,57,8.35,Extrovert,Low,Technology,Advanced,High,Medium,AI Engineer
+753,25,93,80,94,8.65,Introvert,High,Technology,Beginner,Low,Medium,AI Engineer
+754,18,82,82,91,8.2,Extrovert,High,Technology,Intermediate,Low,Medium,AI Engineer
+755,19,63,73,89,6.8,Introvert,High,Government,Advanced,High,Medium,Civil Services
+756,19,74,85,47,7.95,Extrovert,Low,Commerce,Intermediate,High,High,Management
+757,25,88,77,49,8.25,Introvert,Low,Technology,Beginner,Low,High,AI Engineer
+758,24,90,58,91,7.4,Introvert,Low,Technology,Intermediate,High,Low,Software Engineer
+759,23,79,75,66,7.7,Extrovert,Medium,Technology,Advanced,High,Low,Software Engineer
+760,21,56,70,83,6.3,Ambivert,Medium,Arts,Beginner,Medium,Low,Design
+761,21,81,61,53,7.1,Extrovert,High,Science,Beginner,Low,Medium,Engineer
+762,19,66,53,65,5.95,Extrovert,Medium,Government,Intermediate,Medium,Medium,Banking
+763,23,62,89,98,7.55,Extrovert,Medium,Commerce,Advanced,Low,Medium,Management
+764,23,73,86,86,7.95,Ambivert,Medium,Arts,Intermediate,High,Medium,Design
+765,21,94,69,67,8.15,Introvert,High,Arts,Beginner,Medium,High,Media
+766,18,62,72,88,6.7,Introvert,Medium,Commerce,Intermediate,Medium,Low,Business Analyst
+767,23,52,88,49,7.0,Ambivert,Low,Commerce,Intermediate,Low,Low,Accountant
+768,22,83,84,59,8.35,Ambivert,Low,Arts,Intermediate,High,High,Content Creator
+769,20,95,75,45,8.5,Introvert,Medium,Technology,Advanced,High,High,Software Engineer
+770,20,83,78,40,8.05,Ambivert,Low,Technology,Beginner,Medium,High,Software Engineer
+771,24,87,81,87,8.4,Introvert,Low,Arts,Beginner,High,High,Content Creator
+772,25,63,69,51,6.6,Introvert,High,Technology,Advanced,Medium,Low,Software Engineer
+773,19,63,62,77,6.25,Introvert,Medium,Science,Advanced,Medium,Low,Researcher
+774,24,67,56,93,6.15,Ambivert,Low,Commerce,Beginner,Medium,Low,Accountant
+775,19,61,72,77,6.65,Ambivert,Low,Government,Advanced,High,Medium,Banking
+776,25,52,78,74,6.5,Introvert,Medium,Arts,Advanced,Medium,Low,Media
+777,21,81,83,42,8.2,Ambivert,High,Technology,Beginner,High,High,Software Engineer
+778,21,78,70,62,7.4,Ambivert,High,Commerce,Beginner,High,High,Management
+779,21,94,73,90,8.35,Extrovert,High,Government,Advanced,Medium,Medium,Banking
+780,19,53,57,52,5.5,Introvert,Low,Commerce,Advanced,Medium,Low,Management
+781,23,56,52,90,5.4,Introvert,High,Science,Beginner,Low,High,Engineer
+782,22,84,56,79,7.0,Extrovert,Low,Arts,Advanced,Low,Low,Media
+783,23,77,75,79,7.6,Introvert,Low,Technology,Beginner,Low,High,AI Engineer
+784,22,71,54,75,6.25,Ambivert,Medium,Arts,Beginner,Medium,Low,Design
+785,23,81,95,90,8.8,Ambivert,Low,Commerce,Intermediate,High,Medium,Management
+786,19,84,94,76,8.9,Extrovert,Low,Commerce,Beginner,Medium,Medium,Management
+787,18,91,67,68,7.9,Extrovert,Low,Technology,Beginner,High,High,Software Engineer
+788,19,80,86,76,8.3,Ambivert,Medium,Science,Beginner,High,Medium,Researcher
+789,24,86,53,52,6.95,Ambivert,Medium,Government,Intermediate,High,Medium,Defense
+790,20,88,95,41,9.15,Ambivert,High,Arts,Intermediate,High,Medium,Media
+791,21,71,70,50,7.05,Introvert,High,Arts,Advanced,Medium,Medium,Design
+792,21,81,50,46,6.55,Introvert,High,Technology,Beginner,Low,Low,Software Engineer
+793,24,61,69,41,6.5,Introvert,Low,Government,Advanced,Medium,Low,Banking
+794,24,89,51,51,7.0,Ambivert,Low,Commerce,Beginner,High,Medium,Management
+795,25,74,95,71,8.45,Introvert,High,Technology,Beginner,High,Medium,AI Engineer
+796,19,95,62,53,7.85,Extrovert,High,Science,Advanced,Low,High,Engineer
+797,22,53,64,64,5.85,Ambivert,High,Commerce,Advanced,Low,High,Business Analyst
+798,23,65,65,60,6.5,Ambivert,Low,Arts,Beginner,Medium,Low,Media
+799,19,62,84,56,7.3,Extrovert,Medium,Technology,Beginner,Low,Low,AI Engineer
+800,22,88,58,82,7.3,Extrovert,High,Government,Intermediate,Medium,Low,Banking
+801,21,51,62,82,5.65,Ambivert,Medium,Technology,Advanced,High,Low,AI Engineer
+802,19,74,61,93,6.75,Introvert,Medium,Commerce,Intermediate,High,Low,Business Analyst
+803,21,52,52,62,5.2,Introvert,Low,Government,Beginner,Low,High,Civil Services
+804,23,82,73,81,7.75,Introvert,Medium,Arts,Advanced,High,Medium,Media
+805,22,56,75,94,6.55,Introvert,Medium,Government,Beginner,Medium,Low,Banking
+806,22,70,58,97,6.4,Extrovert,Low,Technology,Beginner,High,Medium,Data Scientist
+807,24,72,62,66,6.7,Ambivert,Low,Technology,Intermediate,Low,Medium,Data Scientist
+808,18,52,67,84,5.95,Ambivert,Medium,Technology,Intermediate,High,Medium,AI Engineer
+809,22,52,74,90,6.3,Extrovert,High,Commerce,Advanced,Medium,High,Accountant
+810,19,73,89,75,8.1,Extrovert,Medium,Science,Intermediate,Medium,Medium,Lab Technician
+811,22,80,58,67,6.9,Introvert,High,Technology,Advanced,High,Medium,Data Scientist
+812,24,64,82,99,7.3,Extrovert,High,Commerce,Intermediate,High,High,Accountant
+813,19,61,65,77,6.3,Introvert,Medium,Commerce,Beginner,High,Low,Management
+814,20,78,94,98,8.6,Extrovert,Medium,Arts,Advanced,Medium,Medium,Content Creator
+815,23,58,87,73,7.25,Introvert,High,Arts,Intermediate,High,Medium,Media
+816,25,92,72,46,8.2,Ambivert,High,Science,Beginner,Medium,High,Researcher
+817,18,75,64,48,6.95,Extrovert,High,Commerce,Intermediate,Low,Low,Business Analyst
+818,21,79,84,45,8.15,Introvert,Low,Commerce,Beginner,Low,High,Accountant
+819,20,87,73,92,8.0,Ambivert,High,Technology,Intermediate,High,High,AI Engineer
+820,21,50,93,45,7.15,Extrovert,Low,Technology,Beginner,Medium,High,AI Engineer
+821,24,89,88,63,8.85,Introvert,Medium,Science,Advanced,Low,Medium,Researcher
+822,18,57,70,54,6.35,Ambivert,High,Science,Advanced,High,Medium,Researcher
+823,18,91,78,46,8.45,Extrovert,Low,Science,Beginner,Medium,Low,Researcher
+824,22,69,83,63,7.6,Extrovert,High,Government,Intermediate,High,Medium,Civil Services
+825,23,78,65,72,7.15,Introvert,Low,Commerce,Beginner,Medium,Medium,Management
+826,20,61,54,83,5.75,Introvert,Low,Science,Advanced,Low,High,Engineer
+827,23,58,58,58,5.8,Extrovert,Low,Arts,Intermediate,High,Low,Media
+828,25,85,55,55,7.0,Introvert,Medium,Commerce,Advanced,High,Medium,Business Analyst
+829,20,92,93,78,9.25,Extrovert,High,Science,Beginner,High,Medium,Engineer
+830,22,68,80,44,7.4,Extrovert,High,Government,Beginner,Medium,High,Civil Services
+831,25,55,72,67,6.35,Extrovert,Low,Science,Intermediate,Low,High,Engineer
+832,22,68,93,64,8.05,Extrovert,High,Science,Advanced,Medium,Medium,Engineer
+833,24,92,84,43,8.8,Ambivert,Low,Arts,Advanced,Medium,Medium,Content Creator
+834,19,69,66,77,6.75,Introvert,Medium,Arts,Advanced,High,Low,Content Creator
+835,23,56,83,82,6.95,Ambivert,High,Arts,Beginner,Low,Medium,Media
+836,21,70,68,67,6.9,Ambivert,High,Commerce,Beginner,Low,High,Accountant
+837,23,80,86,51,8.3,Ambivert,High,Science,Intermediate,High,Medium,Researcher
+838,18,89,55,56,7.2,Introvert,Low,Technology,Intermediate,Low,High,AI Engineer
+839,25,92,93,95,9.25,Ambivert,Low,Science,Advanced,High,High,Lab Technician
+840,25,79,69,65,7.4,Extrovert,Medium,Technology,Advanced,Medium,High,Data Scientist
+841,20,67,86,79,7.65,Extrovert,Low,Arts,Beginner,High,Medium,Content Creator
+842,24,60,92,60,7.6,Introvert,Low,Commerce,Beginner,Low,High,Management
+843,23,60,63,82,6.15,Introvert,Medium,Commerce,Beginner,Medium,Medium,Business Analyst
+844,22,86,79,60,8.25,Introvert,Low,Commerce,Beginner,Low,Low,Business Analyst
+845,21,65,63,78,6.4,Extrovert,High,Commerce,Advanced,Medium,Medium,Accountant
+846,21,67,64,94,6.55,Ambivert,Low,Commerce,Beginner,Low,Medium,Business Analyst
+847,25,81,51,78,6.6,Extrovert,High,Arts,Beginner,Low,High,Content Creator
+848,23,83,94,71,8.85,Introvert,Low,Commerce,Advanced,Medium,Low,Accountant
+849,23,95,76,78,8.55,Ambivert,Low,Technology,Advanced,High,High,AI Engineer
+850,23,82,87,80,8.45,Ambivert,High,Science,Advanced,Medium,High,Engineer
+851,20,55,55,96,5.5,Introvert,Medium,Government,Beginner,High,Medium,Civil Services
+852,22,80,52,94,6.6,Introvert,High,Government,Beginner,High,High,Banking
+853,23,86,58,86,7.2,Extrovert,Low,Commerce,Intermediate,Low,Low,Business Analyst
+854,22,51,56,77,5.35,Ambivert,Medium,Science,Intermediate,High,High,Engineer
+855,20,91,61,81,7.6,Ambivert,High,Government,Intermediate,Low,Low,Banking
+856,19,83,58,72,7.05,Extrovert,Low,Commerce,Advanced,Low,High,Management
+857,21,68,82,95,7.5,Ambivert,Low,Commerce,Beginner,Medium,High,Accountant
+858,18,67,79,73,7.3,Ambivert,Low,Government,Beginner,Medium,Medium,Civil Services
+859,23,93,85,100,8.9,Introvert,High,Technology,Beginner,Low,High,Software Engineer
+860,24,56,63,53,5.95,Introvert,Low,Government,Advanced,High,Medium,Civil Services
+861,24,80,88,88,8.4,Introvert,High,Technology,Beginner,Low,High,AI Engineer
+862,25,94,69,87,8.15,Ambivert,Low,Arts,Intermediate,Medium,Low,Content Creator
+863,22,63,87,75,7.5,Extrovert,High,Science,Advanced,High,High,Engineer
+864,23,94,70,92,8.2,Ambivert,High,Government,Beginner,Low,High,Defense
+865,25,61,57,70,5.9,Introvert,Low,Government,Beginner,Medium,High,Civil Services
+866,22,52,83,51,6.75,Extrovert,Medium,Arts,Beginner,Medium,Medium,Content Creator
+867,24,58,92,59,7.5,Ambivert,Medium,Science,Intermediate,Low,Medium,Researcher
+868,21,94,56,55,7.5,Ambivert,High,Arts,Intermediate,Medium,Medium,Content Creator
+869,21,51,94,81,7.25,Ambivert,Low,Commerce,Advanced,High,Low,Management
+870,21,75,83,55,7.9,Extrovert,Low,Science,Advanced,Low,Medium,Lab Technician
+871,18,54,77,84,6.55,Extrovert,High,Arts,Beginner,Low,Low,Content Creator
+872,19,61,67,88,6.4,Extrovert,Medium,Technology,Intermediate,Low,Medium,AI Engineer
+873,18,77,88,78,8.25,Introvert,Low,Government,Advanced,Low,High,Banking
+874,22,70,73,97,7.15,Introvert,Medium,Science,Intermediate,High,High,Lab Technician
+875,20,58,70,46,6.4,Extrovert,Low,Science,Intermediate,Medium,High,Lab Technician
+876,23,70,76,86,7.3,Ambivert,Medium,Commerce,Advanced,High,Low,Accountant
+877,19,65,77,69,7.1,Extrovert,High,Technology,Advanced,Medium,High,Software Engineer
+878,23,51,69,58,6.0,Extrovert,Low,Technology,Beginner,Low,Low,Software Engineer
+879,23,86,83,91,8.45,Extrovert,Low,Technology,Advanced,High,High,AI Engineer
+880,21,75,59,79,6.7,Extrovert,Low,Arts,Beginner,Low,High,Media
+881,22,61,68,97,6.45,Extrovert,Low,Science,Intermediate,Medium,Low,Lab Technician
+882,24,55,66,41,6.05,Extrovert,Medium,Government,Advanced,Medium,High,Banking
+883,18,65,61,70,6.3,Ambivert,Low,Arts,Advanced,Medium,Medium,Content Creator
+884,23,78,56,61,6.7,Introvert,High,Commerce,Beginner,Low,Low,Business Analyst
+885,18,77,63,100,7.0,Extrovert,Low,Science,Advanced,Low,High,Engineer
+886,22,94,88,64,9.1,Introvert,High,Science,Beginner,Medium,Low,Engineer
+887,22,78,68,41,7.3,Extrovert,Medium,Arts,Beginner,Low,Medium,Content Creator
+888,21,66,89,87,7.75,Introvert,High,Commerce,Intermediate,Medium,High,Accountant
+889,24,66,68,44,6.7,Ambivert,High,Commerce,Advanced,Low,Medium,Management
+890,20,90,73,78,8.15,Extrovert,Low,Science,Advanced,Medium,Medium,Lab Technician
+891,19,81,76,74,7.85,Ambivert,Medium,Government,Intermediate,Low,Low,Defense
+892,21,63,94,73,7.85,Introvert,Medium,Arts,Beginner,High,Medium,Design
+893,21,73,54,59,6.35,Introvert,Medium,Science,Intermediate,High,Medium,Lab Technician
+894,25,92,92,53,9.2,Introvert,Low,Commerce,Intermediate,Medium,Low,Business Analyst
+895,19,66,90,73,7.8,Ambivert,Low,Government,Intermediate,High,Medium,Civil Services
+896,19,50,69,69,5.95,Ambivert,Low,Arts,Intermediate,High,High,Design
+897,21,77,90,46,8.35,Ambivert,High,Technology,Beginner,High,High,AI Engineer
+898,23,91,68,53,7.95,Ambivert,High,Government,Advanced,Medium,High,Banking
+899,19,92,55,95,7.35,Ambivert,Low,Science,Advanced,High,Low,Researcher
+900,23,60,50,88,5.5,Extrovert,Low,Science,Beginner,Low,High,Engineer
+901,19,88,69,66,7.85,Introvert,Medium,Science,Intermediate,Medium,Medium,Researcher
+902,21,54,66,49,6.0,Extrovert,Low,Technology,Beginner,High,Low,Data Scientist
+903,18,94,56,83,7.5,Extrovert,Low,Arts,Intermediate,High,Medium,Media
+904,19,71,93,43,8.2,Extrovert,High,Commerce,Advanced,High,Low,Management
+905,24,60,68,82,6.4,Ambivert,Low,Science,Advanced,High,High,Lab Technician
+906,24,60,54,85,5.7,Extrovert,High,Technology,Intermediate,Medium,High,Software Engineer
+907,22,77,75,83,7.6,Introvert,Low,Government,Advanced,High,Medium,Banking
+908,18,93,59,46,7.6,Introvert,High,Science,Intermediate,Medium,Low,Engineer
+909,25,94,77,60,8.55,Extrovert,Low,Government,Intermediate,Low,Medium,Banking
+910,19,74,60,64,6.7,Extrovert,Low,Science,Intermediate,High,High,Engineer
+911,24,85,63,100,7.4,Introvert,Low,Science,Advanced,Medium,Low,Lab Technician
+912,25,66,58,66,6.2,Introvert,Low,Commerce,Intermediate,Medium,High,Business Analyst
+913,24,54,70,81,6.2,Introvert,Low,Arts,Intermediate,Medium,Medium,Design
+914,22,94,69,68,8.15,Extrovert,Medium,Science,Beginner,Low,Low,Engineer
+915,20,90,78,70,8.4,Introvert,High,Science,Advanced,Medium,Medium,Engineer
+916,18,57,83,82,7.0,Introvert,Medium,Science,Beginner,Medium,High,Engineer
+917,24,51,69,50,6.0,Extrovert,High,Commerce,Advanced,High,Medium,Accountant
+918,19,84,53,40,6.85,Introvert,Medium,Technology,Advanced,High,Low,Software Engineer
+919,24,63,67,46,6.5,Introvert,High,Arts,Advanced,Low,High,Content Creator
+920,23,90,68,84,7.9,Extrovert,Medium,Government,Advanced,Medium,Medium,Defense
+921,23,88,93,54,9.05,Ambivert,Medium,Technology,Beginner,High,Low,Data Scientist
+922,22,86,88,98,8.7,Ambivert,Medium,Technology,Intermediate,Low,Low,Software Engineer
+923,21,86,51,65,6.85,Introvert,Low,Arts,Intermediate,Low,Medium,Design
+924,25,93,88,80,9.05,Ambivert,Medium,Technology,Advanced,Low,Low,AI Engineer
+925,20,64,87,40,7.55,Introvert,Low,Commerce,Beginner,High,Low,Management
+926,23,79,64,60,7.15,Ambivert,High,Commerce,Advanced,High,High,Business Analyst
+927,21,75,64,86,6.95,Introvert,High,Science,Intermediate,Low,High,Lab Technician
+928,20,86,76,71,8.1,Extrovert,Low,Science,Intermediate,Low,Low,Researcher
+929,22,62,80,47,7.1,Introvert,Medium,Science,Advanced,High,High,Researcher
+930,18,90,70,72,8.0,Ambivert,Low,Commerce,Intermediate,Medium,High,Management
+931,21,91,86,90,8.85,Ambivert,Low,Technology,Advanced,Medium,Low,AI Engineer
+932,22,78,54,97,6.6,Ambivert,Low,Commerce,Beginner,Low,Medium,Management
+933,23,67,71,52,6.9,Extrovert,Medium,Commerce,Advanced,High,Low,Business Analyst
+934,18,76,76,40,7.6,Introvert,Medium,Commerce,Intermediate,Low,Medium,Management
+935,23,92,63,70,7.75,Extrovert,High,Arts,Advanced,Medium,High,Media
+936,21,74,86,88,8.0,Introvert,Low,Commerce,Beginner,High,Medium,Business Analyst
+937,19,76,92,40,8.4,Introvert,Medium,Arts,Beginner,Low,Medium,Design
+938,22,53,83,92,6.8,Extrovert,High,Arts,Beginner,High,Medium,Content Creator
+939,25,89,87,62,8.8,Ambivert,High,Technology,Intermediate,High,High,Software Engineer
+940,21,88,71,77,7.95,Ambivert,High,Science,Intermediate,High,Low,Researcher
+941,21,95,83,98,8.9,Introvert,Low,Arts,Intermediate,Low,High,Media
+942,19,82,68,77,7.5,Introvert,High,Technology,Beginner,High,High,Software Engineer
+943,25,92,93,41,9.25,Ambivert,Low,Arts,Intermediate,Medium,High,Content Creator
+944,21,77,84,75,8.05,Introvert,Medium,Science,Beginner,Medium,Low,Lab Technician
+945,19,87,68,72,7.75,Introvert,Low,Government,Beginner,Medium,High,Defense
+946,21,57,56,47,5.65,Ambivert,High,Technology,Advanced,High,Low,Software Engineer
+947,20,82,50,91,6.6,Introvert,Low,Arts,Advanced,High,Low,Content Creator
+948,23,90,65,59,7.75,Ambivert,Medium,Government,Advanced,Medium,Low,Civil Services
+949,23,93,59,66,7.6,Ambivert,Medium,Arts,Advanced,Low,Low,Design
+950,25,64,92,56,7.8,Ambivert,Medium,Government,Advanced,Medium,Low,Banking
+951,25,69,72,72,7.05,Extrovert,High,Commerce,Beginner,Low,High,Accountant
+952,21,88,65,65,7.65,Ambivert,High,Arts,Advanced,Medium,Medium,Content Creator
+953,22,73,94,91,8.35,Ambivert,Medium,Government,Advanced,Low,Low,Civil Services
+954,25,82,66,85,7.4,Ambivert,High,Commerce,Beginner,Low,Medium,Business Analyst
+955,22,72,61,81,6.65,Introvert,Low,Technology,Advanced,High,Medium,Data Scientist
+956,25,89,80,83,8.45,Introvert,Low,Commerce,Beginner,Medium,Medium,Business Analyst
+957,18,60,53,81,5.65,Introvert,Medium,Government,Intermediate,Medium,Low,Banking
+958,22,89,64,78,7.65,Ambivert,Low,Arts,Beginner,High,Medium,Content Creator
+959,24,68,73,45,7.05,Ambivert,High,Commerce,Advanced,Low,Medium,Business Analyst
+960,24,88,60,90,7.4,Introvert,Medium,Science,Beginner,High,Medium,Lab Technician
+961,22,76,55,77,6.55,Introvert,Low,Government,Beginner,High,Medium,Defense
+962,21,68,58,59,6.3,Introvert,Medium,Technology,Advanced,Medium,Medium,Software Engineer
+963,18,82,92,92,8.7,Ambivert,High,Technology,Beginner,High,Low,Software Engineer
+964,20,91,62,55,7.65,Ambivert,Medium,Government,Beginner,Low,Medium,Banking
+965,19,56,77,92,6.65,Ambivert,Low,Government,Beginner,Low,Low,Civil Services
+966,20,84,73,91,7.85,Extrovert,Low,Arts,Intermediate,Low,High,Content Creator
+967,19,52,70,44,6.1,Introvert,High,Science,Advanced,Low,High,Lab Technician
+968,21,64,72,94,6.8,Introvert,Low,Commerce,Beginner,Medium,Low,Accountant
+969,25,89,77,55,8.3,Extrovert,Medium,Science,Advanced,Medium,Medium,Lab Technician
+970,21,90,52,44,7.1,Introvert,High,Technology,Advanced,Medium,High,AI Engineer
+971,18,70,72,73,7.1,Introvert,Medium,Arts,Advanced,Low,Low,Media
+972,22,79,73,73,7.6,Extrovert,High,Science,Advanced,High,High,Lab Technician
+973,19,51,60,66,5.55,Introvert,Low,Science,Advanced,Low,Low,Lab Technician
+974,19,77,92,57,8.45,Ambivert,Low,Arts,Intermediate,Low,High,Media
+975,25,65,55,72,6.0,Extrovert,High,Government,Advanced,Medium,Medium,Civil Services
+976,18,53,79,43,6.6,Introvert,Low,Technology,Advanced,High,Medium,Data Scientist
+977,23,66,54,41,6.0,Extrovert,Low,Commerce,Advanced,Low,Medium,Business Analyst
+978,25,52,61,41,5.65,Introvert,High,Arts,Advanced,High,Medium,Design
+979,24,51,75,72,6.3,Introvert,High,Science,Advanced,Low,Low,Researcher
+980,19,58,61,66,5.95,Extrovert,High,Science,Beginner,Low,High,Lab Technician
+981,18,61,55,46,5.8,Extrovert,High,Arts,Intermediate,Low,Medium,Design
+982,19,63,66,74,6.45,Ambivert,High,Science,Beginner,Low,High,Researcher
+983,22,66,65,71,6.55,Extrovert,High,Arts,Intermediate,Medium,Medium,Content Creator
+984,22,67,74,89,7.05,Ambivert,Medium,Technology,Beginner,Medium,High,Data Scientist
+985,20,84,72,95,7.8,Extrovert,Medium,Government,Beginner,High,Medium,Defense
+986,20,92,86,68,8.9,Ambivert,Low,Commerce,Intermediate,High,Low,Management
+987,24,93,57,90,7.5,Extrovert,High,Arts,Beginner,Medium,Low,Content Creator
+988,19,78,71,67,7.45,Extrovert,Medium,Arts,Advanced,Low,High,Media
+989,21,84,82,76,8.3,Extrovert,Low,Commerce,Intermediate,High,Medium,Management
+990,23,69,65,51,6.7,Extrovert,High,Arts,Beginner,High,Low,Content Creator
+991,21,62,63,91,6.25,Extrovert,High,Technology,Intermediate,Medium,Low,Software Engineer
+992,19,89,83,67,8.6,Extrovert,Medium,Government,Beginner,Low,High,Banking
+993,20,68,60,92,6.4,Introvert,Low,Technology,Beginner,Low,Low,AI Engineer
+994,18,86,60,96,7.3,Introvert,Medium,Science,Intermediate,Low,Medium,Researcher
+995,18,87,64,70,7.55,Ambivert,Medium,Commerce,Beginner,High,Medium,Business Analyst
+996,20,58,80,84,6.9,Extrovert,High,Arts,Advanced,Medium,High,Design
+997,25,55,68,65,6.15,Introvert,Medium,Commerce,Beginner,High,Medium,Management
+998,20,67,54,54,6.05,Extrovert,High,Science,Advanced,High,High,Researcher
+999,23,93,86,40,8.95,Ambivert,High,Arts,Advanced,Medium,High,Media
+1000,19,86,62,60,7.4,Ambivert,Low,Technology,Beginner,High,High,AI Engineer

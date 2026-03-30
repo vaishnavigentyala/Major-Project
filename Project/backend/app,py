@@ -1,0 +1,19 @@
+from sklearn.ensemble import RandomForestClassifier
+
+model = RandomForestClassifier(n_estimators=100)
+
+model.fit(X_train, y_train)
+
+prediction = model.predict(user_input)
+
+from sklearn.ensemble import RandomForestClassifier
+import pandas as pd
+# Load dataset
+dataset = pd.read_csv("career_guidance_dataset.csv")
+
+X = dataset.drop("career", axis=1)
+y = dataset["career"]
+
+# Train Random Forest model
+model = RandomForestClassifier(n_estimators=100, random_state=42)
+model.fit(X, y)
